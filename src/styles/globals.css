@@ -1,0 +1,259 @@
+@import "tailwindcss";
+
+/* Global Background Image */
+body {
+  background-image: url("/images/background-image.png");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  min-height: 100vh;
+}
+
+.font-amiri {
+  font-family: "Amiri", serif;
+}
+
+.font-calsans {
+  font-family: "Cal Sans", sans-serif;
+}
+
+.font-UthmanicAyat {
+  font-family: "uthmanicAyatIndex";
+  font-weight: 500;
+  font-size: 30px;
+  font-style: normal;
+}
+
+.font-UthmanicAyat2 {
+  font-family: "uthmanicAyatIndex";
+  font-weight: 500;
+  font-size: 25px;
+  font-style: normal;
+}
+
+.font-UthmanicScript {
+  font-family: "UthmanicScript";
+  font-weight: 400;
+  font-style: normal;
+}
+
+.font-plusJakartaSans {
+  font-family: "plusJakartaSans";
+  font-weight: 400;
+  font-size: 16px;
+  font-style: normal;
+}
+
+.font-Bismillah {
+  font-family: "bismillah";
+  font-weight: 500;
+  font-size: 35px;
+  font-style: normal;
+}
+
+.font-IndoPak {
+  font-family: "indoPakScript";
+  font-weight: 400;
+  font-style: normal;
+}
+
+/* Ensure all pages have the background */
+html {
+  min-height: 100vh;
+}
+
+/* Make sure content is visible over the background */
+#__next {
+  min-height: 100vh;
+}
+
+.overflow-y-auto {
+  overflow-y: auto; /* keep scrolling */
+  scrollbar-width: none; /* Firefox */
+  -ms-overflow-style: none; /* IE & Edge */
+}
+
+.hizb-15-lines {
+  display: inline-block;
+  position: absolute;
+  margin-top: 18px;
+  color: 4e286b;
+  padding-top: 5px;
+  border-radius: 5px;
+  font-size: 22px;
+  right: -55px;
+  transform: rotate(-91deg);
+  background-color: red;
+  width: 90px;
+  height: 40px;
+  text-align: center;
+}
+.hizb-15-lines-right {
+  right: -100px;
+  margin-top: 29px;
+  width: 85px;
+  border-top-right-radius: 5px;
+  border-bottom-right-radius: 5px;
+  height: 50px;
+  text-align: center;
+  margin-right: 10px;
+}
+
+.curved-rectangle {
+  --c: 75; /* lower value = less steep curve */
+
+  width: 340px;
+  height: 80px; /* height to fit heading */
+  background: #2372B9;
+  mask: radial-gradient(
+    calc(var(--c) * 1%) 100% at 50% calc(100% + 100% * cos(asin(50 / var(--c)))),
+    #0000 calc(100% - 1px),
+    #000
+  );
+  clip-path: ellipse(calc(var(--c) * 1%) 100% at bottom);
+
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  padding: 0 10px;
+}
+
+.curved-rectangle-2 {
+  --c: 75; /* lower value = less steep curve */
+
+  width: 200px;
+  height: 65px; /* height to fit heading */
+  background: #3DB47D;
+  mask: radial-gradient(
+    calc(var(--c) * 1%) 100% at 50% calc(100% + 100% * cos(asin(50 / var(--c)))),
+    #0000 calc(100% - 1px),
+    #000
+  );
+  clip-path: ellipse(calc(var(--c) * 1%) 100% at bottom);
+
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  padding: 0 10px;
+}
+
+.highlighted-ayat{
+  background: #3DB47D;
+  color: white;
+  border-radius: 5px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+
+
+.hizb-cont{
+  display: inline-block;
+  position: absolute;
+  margin-top: 18px;
+  color: #fff;
+  padding-top: 5px;
+  border-radius: 5px;
+  font-size: 22px;
+  right: -53.5px;
+  transform: rotate(-91deg);
+  background-color: #3DB47D;
+  width: 90px;
+  height: 40px;
+  text-align: center;
+}
+
+.hizb-cont-right{
+  right: -85.5px;
+  margin-top: 22px;
+  width: 80px;
+  border-top-right-radius: 5px;
+  border-bottom-right-radius: 5px;
+  height: 40px;
+  text-align: center;
+  margin-right: 10px;
+}
+
+
+.hizb-cont-normal{
+  right: -81px;
+}
+
+.hizb-cont-normal-right{
+  right: -120px;
+  margin-top: 22px;
+  width: 80px;
+  border-top-right-radius: 5px;
+  border-bottom-right-radius: 5px;
+  height: 40px;
+  text-align: center;
+  margin-right: 10px;
+}
+
+
+
+.hizb-cont2{
+  display: inline-block;
+  position: absolute;
+  margin-top: 2px;
+  color: #fff;
+  padding-top: 3px;
+  border-radius: 5px;
+  font-size: 42px;
+  right: -56px;
+  background-color: #000;
+  width: 40px;
+  height: 80px;
+  text-align: center; 
+}
+
+.hizb-cont2-normal{
+  display: inline-block;
+  position: absolute;
+  margin-top: 2px;
+  color: #fff;
+  padding-top: 3px;
+  border-radius: 5px;
+  font-size: 42px;
+  right: -28px;
+  background-color: #3DB47D;
+  width: 40px;
+  height: 80px;
+  text-align: center; 
+}
+
+.sajda{
+  display: inline-block;
+  position: absolute;
+  margin-top: 22px;
+  color: #fff;
+  padding-top: 6px;
+  border-radius: 5px;
+  font-size: 25px;
+  background-color: #3DB47D;
+  width: 80px;
+  height: 40px;
+  text-align: center;
+  right: -88px;
+}
+.sajda-right{
+  right: 138px;
+}
+
+.sajda-15{
+  display: inline-block;
+  position: absolute;
+  margin-top: 22px;
+  color: #4e286b;
+  padding-top: 6px;
+  border-radius: 5px;
+  font-size: 25px;
+  background-color: white;
+  width: 80px;
+  height: 40px;
+  text-align: center;
+  right: -88px;
+}

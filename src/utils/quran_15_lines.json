@@ -1,0 +1,4230 @@
+[
+  {
+    "pageNumber": 1,
+    "ayatStartNumber": 0,
+    "ayatEndNumber": 6,
+    "juzNumber": 1,
+    "chapter": 1
+  },
+  {
+    "pageNumber": 2,
+    "ayatStartNumber": 0,
+    "ayatEndNumber": 4,
+    "juzNumber": 1,
+    "chapter": 2
+  },
+  {
+    "pageNumber": 3,
+    "ayatStartNumber": 5,
+    "ayatEndNumber": 15,
+    "juzNumber": 1,
+    "chapter": 2
+  },
+  {
+    "pageNumber": 4,
+    "ayatStartNumber": 16,
+    "ayatEndNumber": 23,
+    "juzNumber": 1,
+    "chapter": 2
+  },
+  {
+    "pageNumber": 5,
+    "ayatStartNumber": 24,
+    "ayatEndNumber": 28,
+    "juzNumber": 1,
+    "chapter": 2
+  },
+  {
+    "pageNumber": 6,
+    "ayatStartNumber": 29,
+    "ayatEndNumber": 36,
+    "juzNumber": 1,
+    "chapter": 2
+  },
+  {
+    "pageNumber": 7,
+    "ayatStartNumber": 37,
+    "ayatEndNumber": 47,
+    "juzNumber": 1,
+    "chapter": 2
+  },
+  {
+    "pageNumber": 8,
+    "ayatStartNumber": 48,
+    "ayatEndNumber": 56,
+    "juzNumber": 1,
+    "chapter": 2
+  },
+  {
+    "pageNumber": 9,
+    "ayatStartNumber": 57,
+    "ayatEndNumber": 60,
+    "juzNumber": 1,
+    "chapter": 2
+  },
+  {
+    "pageNumber": 10,
+    "ayatStartNumber": 61,
+    "ayatEndNumber": 68,
+    "juzNumber": 1,
+    "chapter": 2
+  },
+  {
+    "pageNumber": 11,
+    "ayatStartNumber": 69,
+    "ayatEndNumber": 75,
+    "juzNumber": 1,
+    "chapter": 2
+  },
+  {
+    "pageNumber": 12,
+    "ayatStartNumber": 76,
+    "ayatEndNumber": 82,
+    "juzNumber": 1,
+    "chapter": 2
+  },
+  {
+    "pageNumber": 13,
+    "ayatStartNumber": 83,
+    "ayatEndNumber": 87,
+    "juzNumber": 1,
+    "chapter": 2
+  },
+  {
+    "pageNumber": 14,
+    "ayatStartNumber": 88,
+    "ayatEndNumber": 92,
+    "juzNumber": 1,
+    "chapter": 2
+  },
+  {
+    "pageNumber": 15,
+    "ayatStartNumber": 93,
+    "ayatEndNumber": 100,
+    "juzNumber": 1,
+    "chapter": 2
+  },
+  {
+    "pageNumber": 16,
+    "ayatStartNumber": 101,
+    "ayatEndNumber": 104,
+    "juzNumber": 1,
+    "chapter": 2
+  },
+  {
+    "pageNumber": 17,
+    "ayatStartNumber": 105,
+    "ayatEndNumber": 111,
+    "juzNumber": 1,
+    "chapter": 2
+  },
+  {
+    "pageNumber": 18,
+    "ayatStartNumber": 112,
+    "ayatEndNumber": 118,
+    "juzNumber": 1,
+    "chapter": 2
+  },
+  {
+    "pageNumber": 19,
+    "ayatStartNumber": 119,
+    "ayatEndNumber": 125,
+    "juzNumber": 1,
+    "chapter": 2
+  },
+  {
+    "pageNumber": 20,
+    "ayatStartNumber": 126,
+    "ayatEndNumber": 133,
+    "juzNumber": 1,
+    "chapter": 2
+  },
+  {
+    "pageNumber": 21,
+    "ayatStartNumber": 134,
+    "ayatEndNumber": 140,
+    "juzNumber": 1,
+    "chapter": 2
+  },
+  {
+    "pageNumber": 22,
+    "ayatStartNumber": 141,
+    "ayatEndNumber": 144,
+    "juzNumber": 2,
+    "chapter": 2
+  },
+  {
+    "pageNumber": 23,
+    "ayatStartNumber": 145,
+    "ayatEndNumber": 152,
+    "juzNumber": 2,
+    "chapter": 2
+  },
+  {
+    "pageNumber": 24,
+    "ayatStartNumber": 153,
+    "ayatEndNumber": 162,
+    "juzNumber": 2,
+    "chapter": 2
+  },
+  {
+    "pageNumber": 25,
+    "ayatStartNumber": 163,
+    "ayatEndNumber": 168,
+    "juzNumber": 2,
+    "chapter": 2
+  },
+  {
+    "pageNumber": 26,
+    "ayatStartNumber": 169,
+    "ayatEndNumber": 175,
+    "juzNumber": 2,
+    "chapter": 2
+  },
+  {
+    "pageNumber": 27,
+    "ayatStartNumber": 176,
+    "ayatEndNumber": 180,
+    "juzNumber": 2,
+    "chapter": 2
+  },
+  {
+    "pageNumber": 28,
+    "ayatStartNumber": 181,
+    "ayatEndNumber": 185,
+    "juzNumber": 2,
+    "chapter": 2
+  },
+  {
+    "pageNumber": 29,
+    "ayatStartNumber": 186,
+    "ayatEndNumber": 189,
+    "juzNumber": 2,
+    "chapter": 2
+  },
+  {
+    "pageNumber": 30,
+    "ayatStartNumber": 190,
+    "ayatEndNumber": 195,
+    "juzNumber": 2,
+    "chapter": 2
+  },
+  {
+    "pageNumber": 31,
+    "ayatStartNumber": 196,
+    "ayatEndNumber": 201,
+    "juzNumber": 2,
+    "chapter": 2
+  },
+  {
+    "pageNumber": 32,
+    "ayatStartNumber": 202,
+    "ayatEndNumber": 209,
+    "juzNumber": 2,
+    "chapter": 2
+  },
+  {
+    "pageNumber": 33,
+    "ayatStartNumber": 210,
+    "ayatEndNumber": 214,
+    "juzNumber": 2,
+    "chapter": 2
+  },
+  {
+    "pageNumber": 34,
+    "ayatStartNumber": 215,
+    "ayatEndNumber": 218,
+    "juzNumber": 2,
+    "chapter": 2
+  },
+  {
+    "pageNumber": 35,
+    "ayatStartNumber": 219,
+    "ayatEndNumber": 223,
+    "juzNumber": 2,
+    "chapter": 2
+  },
+  {
+    "pageNumber": 36,
+    "ayatStartNumber": 224,
+    "ayatEndNumber": 229,
+    "juzNumber": 2,
+    "chapter": 2
+  },
+  {
+    "pageNumber": 37,
+    "ayatStartNumber": 230,
+    "ayatEndNumber": 232,
+    "juzNumber": 2,
+    "chapter": 2
+  },
+  {
+    "pageNumber": 38,
+    "ayatStartNumber": 233,
+    "ayatEndNumber": 236,
+    "juzNumber": 2,
+    "chapter": 2
+  },
+  {
+    "pageNumber": 39,
+    "ayatStartNumber": 237,
+    "ayatEndNumber": 244,
+    "juzNumber": 2,
+    "chapter": 2
+  },
+  {
+    "pageNumber": 40,
+    "ayatStartNumber": 245,
+    "ayatEndNumber": 247,
+    "juzNumber": 2,
+    "chapter": 2
+  },
+  {
+    "pageNumber": 41,
+    "ayatStartNumber": 248,
+    "ayatEndNumber": 251,
+    "juzNumber": 2,
+    "chapter": 2
+  },
+  {
+    "pageNumber": 42,
+    "ayatStartNumber": 252,
+    "ayatEndNumber": 255,
+    "juzNumber": 3,
+    "chapter": 2
+  },
+  {
+    "pageNumber": 43,
+    "ayatStartNumber": 256,
+    "ayatEndNumber": 258,
+    "juzNumber": 3,
+    "chapter": 2
+  },
+  {
+    "pageNumber": 44,
+    "ayatStartNumber": 259,
+    "ayatEndNumber": 263,
+    "juzNumber": 3,
+    "chapter": 2
+  },
+  {
+    "pageNumber": 45,
+    "ayatStartNumber": 264,
+    "ayatEndNumber": 268,
+    "juzNumber": 3,
+    "chapter": 2
+  },
+  {
+    "pageNumber": 46,
+    "ayatStartNumber": 269,
+    "ayatEndNumber": 273,
+    "juzNumber": 3,
+    "chapter": 2
+  },
+  {
+    "pageNumber": 47,
+    "ayatStartNumber": 274,
+    "ayatEndNumber": 280,
+    "juzNumber": 3,
+    "chapter": 2
+  },
+  {
+    "pageNumber": 48,
+    "ayatStartNumber": 281,
+    "ayatEndNumber": 281,
+    "juzNumber": 3,
+    "chapter": 2
+  },
+  {
+    "pageNumber": 49,
+    "ayatStartNumber": 282,
+    "ayatEndNumber": 285,
+    "juzNumber": 3,
+    "chapter": 2
+  },
+  {
+    "pageNumber": 50,
+    "ayatStartNumber": 0,
+    "ayatEndNumber": 8,
+    "juzNumber": 3,
+    "chapter": 3
+  },
+  {
+    "pageNumber": 51,
+    "ayatStartNumber": 9,
+    "ayatEndNumber": 14,
+    "juzNumber": 3,
+    "chapter": 3
+  },
+  {
+    "pageNumber": 52,
+    "ayatStartNumber": 15,
+    "ayatEndNumber": 21,
+    "juzNumber": 3,
+    "chapter": 3
+  },
+  {
+    "pageNumber": 53,
+    "ayatStartNumber": 22,
+    "ayatEndNumber": 28,
+    "juzNumber": 3,
+    "chapter": 3
+  },
+  {
+    "pageNumber": 54,
+    "ayatStartNumber": 29,
+    "ayatEndNumber": 36,
+    "juzNumber": 3,
+    "chapter": 3
+  },
+  {
+    "pageNumber": 55,
+    "ayatStartNumber": 37,
+    "ayatEndNumber": 44,
+    "juzNumber": 3,
+    "chapter": 3
+  },
+  {
+    "pageNumber": 56,
+    "ayatStartNumber": 45,
+    "ayatEndNumber": 51,
+    "juzNumber": 3,
+    "chapter": 3
+  },
+  {
+    "pageNumber": 57,
+    "ayatStartNumber": 52,
+    "ayatEndNumber": 60,
+    "juzNumber": 3,
+    "chapter": 3
+  },
+  {
+    "pageNumber": 58,
+    "ayatStartNumber": 61,
+    "ayatEndNumber": 69,
+    "juzNumber": 3,
+    "chapter": 3
+  },
+  {
+    "pageNumber": 59,
+    "ayatStartNumber": 70,
+    "ayatEndNumber": 76,
+    "juzNumber": 3,
+    "chapter": 3
+  },
+  {
+    "pageNumber": 60,
+    "ayatStartNumber": 77,
+    "ayatEndNumber": 82,
+    "juzNumber": 3,
+    "chapter": 3
+  },
+  {
+    "pageNumber": 61,
+    "ayatStartNumber": 83,
+    "ayatEndNumber": 90,
+    "juzNumber": 3,
+    "chapter": 3
+  },
+  {
+    "pageNumber": 62,
+    "ayatStartNumber": 91,
+    "ayatEndNumber": 99,
+    "juzNumber": 3,
+    "chapter": 3
+  },
+  {
+    "pageNumber": 63,
+    "ayatStartNumber": 100,
+    "ayatEndNumber": 107,
+    "juzNumber": 4,
+    "chapter": 3
+  },
+  {
+    "pageNumber": 64,
+    "ayatStartNumber": 108,
+    "ayatEndNumber": 114,
+    "juzNumber": 4,
+    "chapter": 3
+  },
+  {
+    "pageNumber": 65,
+    "ayatStartNumber": 115,
+    "ayatEndNumber": 120,
+    "juzNumber": 4,
+    "chapter": 3
+  },
+  {
+    "pageNumber": 66,
+    "ayatStartNumber": 121,
+    "ayatEndNumber": 131,
+    "juzNumber": 4,
+    "chapter": 3
+  },
+  {
+    "pageNumber": 67,
+    "ayatStartNumber": 132,
+    "ayatEndNumber": 139,
+    "juzNumber": 4,
+    "chapter": 3
+  },
+  {
+    "pageNumber": 68,
+    "ayatStartNumber": 140,
+    "ayatEndNumber": 147,
+    "juzNumber": 4,
+    "chapter": 3
+  },
+  {
+    "pageNumber": 69,
+    "ayatStartNumber": 148,
+    "ayatEndNumber": 152,
+    "juzNumber": 4,
+    "chapter": 3
+  },
+  {
+    "pageNumber": 70,
+    "ayatStartNumber": 153,
+    "ayatEndNumber": 156,
+    "juzNumber": 4,
+    "chapter": 3
+  },
+  {
+    "pageNumber": 71,
+    "ayatStartNumber": 157,
+    "ayatEndNumber": 164,
+    "juzNumber": 4,
+    "chapter": 3
+  },
+  {
+    "pageNumber": 72,
+    "ayatStartNumber": 165,
+    "ayatEndNumber": 172,
+    "juzNumber": 4,
+    "chapter": 3
+  },
+  {
+    "pageNumber": 73,
+    "ayatStartNumber": 173,
+    "ayatEndNumber": 179,
+    "juzNumber": 4,
+    "chapter": 3
+  },
+  {
+    "pageNumber": 74,
+    "ayatStartNumber": 180,
+    "ayatEndNumber": 185,
+    "juzNumber": 4,
+    "chapter": 3
+  },
+  {
+    "pageNumber": 75,
+    "ayatStartNumber": 186,
+    "ayatEndNumber": 193,
+    "juzNumber": 4,
+    "chapter": 3
+  },
+  {
+    "pageNumber": 76,
+    "ayatStartNumber": 194,
+    "ayatEndNumber": 199,
+    "juzNumber": 4,
+    "chapter": 3
+  },
+  {
+    "pageNumber": 77,
+    "ayatStartNumber": 0,
+    "ayatEndNumber": 5,
+    "juzNumber": 4,
+    "chapter": 4
+  },
+  {
+    "pageNumber": 78,
+    "ayatStartNumber": 6,
+    "ayatEndNumber": 10,
+    "juzNumber": 4,
+    "chapter": 4
+  },
+  {
+    "pageNumber": 79,
+    "ayatStartNumber": 11,
+    "ayatEndNumber": 13,
+    "juzNumber": 4,
+    "chapter": 4
+  },
+  {
+    "pageNumber": 80,
+    "ayatStartNumber": 14,
+    "ayatEndNumber": 18,
+    "juzNumber": 4,
+    "chapter": 4
+  },
+  {
+    "pageNumber": 81,
+    "ayatStartNumber": 19,
+    "ayatEndNumber": 22,
+    "juzNumber": 4,
+    "chapter": 4
+  },
+  {
+    "pageNumber": 82,
+    "ayatStartNumber": 23,
+    "ayatEndNumber": 25,
+    "juzNumber": 5,
+    "chapter": 4
+  },
+  {
+    "pageNumber": 83,
+    "ayatStartNumber": 26,
+    "ayatEndNumber": 32,
+    "juzNumber": 5,
+    "chapter": 4
+  },
+  {
+    "pageNumber": 84,
+    "ayatStartNumber": 33,
+    "ayatEndNumber": 36,
+    "juzNumber": 5,
+    "chapter": 4
+  },
+  {
+    "pageNumber": 85,
+    "ayatStartNumber": 37,
+    "ayatEndNumber": 43,
+    "juzNumber": 5,
+    "chapter": 4
+  },
+  {
+    "pageNumber": 86,
+    "ayatStartNumber": 44,
+    "ayatEndNumber": 50,
+    "juzNumber": 5,
+    "chapter": 4
+  },
+  {
+    "pageNumber": 87,
+    "ayatStartNumber": 51,
+    "ayatEndNumber": 58,
+    "juzNumber": 5,
+    "chapter": 4
+  },
+  {
+    "pageNumber": 88,
+    "ayatStartNumber": 59,
+    "ayatEndNumber": 64,
+    "juzNumber": 5,
+    "chapter": 4
+  },
+  {
+    "pageNumber": 89,
+    "ayatStartNumber": 65,
+    "ayatEndNumber": 73,
+    "juzNumber": 5,
+    "chapter": 4
+  },
+  {
+    "pageNumber": 90,
+    "ayatStartNumber": 74,
+    "ayatEndNumber": 78,
+    "juzNumber": 5,
+    "chapter": 4
+  },
+  {
+    "pageNumber": 91,
+    "ayatStartNumber": 79,
+    "ayatEndNumber": 85,
+    "juzNumber": 5,
+    "chapter": 4
+  },
+  {
+    "pageNumber": 92,
+    "ayatStartNumber": 86,
+    "ayatEndNumber": 90,
+    "juzNumber": 5,
+    "chapter": 4
+  },
+  {
+    "pageNumber": 93,
+    "ayatStartNumber": 91,
+    "ayatEndNumber": 93,
+    "juzNumber": 5,
+    "chapter": 4
+  },
+  {
+    "pageNumber": 94,
+    "ayatStartNumber": 94,
+    "ayatEndNumber": 100,
+    "juzNumber": 5,
+    "chapter": 4
+  },
+  {
+    "pageNumber": 95,
+    "ayatStartNumber": 101,
+    "ayatEndNumber": 104,
+    "juzNumber": 5,
+    "chapter": 4
+  },
+  {
+    "pageNumber": 96,
+    "ayatStartNumber": 105,
+    "ayatEndNumber": 112,
+    "juzNumber": 5,
+    "chapter": 4
+  },
+  {
+    "pageNumber": 97,
+    "ayatStartNumber": 113,
+    "ayatEndNumber": 120,
+    "juzNumber": 5,
+    "chapter": 4
+  },
+  {
+    "pageNumber": 98,
+    "ayatStartNumber": 121,
+    "ayatEndNumber": 126,
+    "juzNumber": 5,
+    "chapter": 4
+  },
+  {
+    "pageNumber": 99,
+    "ayatStartNumber": 127,
+    "ayatEndNumber": 133,
+    "juzNumber": 5,
+    "chapter": 4
+  },
+  {
+    "pageNumber": 100,
+    "ayatStartNumber": 134,
+    "ayatEndNumber": 139,
+    "juzNumber": 5,
+    "chapter": 4
+  },
+  {
+    "pageNumber": 101,
+    "ayatStartNumber": 140,
+    "ayatEndNumber": 146,
+    "juzNumber": 5,
+    "chapter": 4
+  },
+  {
+    "pageNumber": 102,
+    "ayatStartNumber": 147,
+    "ayatEndNumber": 153,
+    "juzNumber": 6,
+    "chapter": 4
+  },
+  {
+    "pageNumber": 103,
+    "ayatStartNumber": 154,
+    "ayatEndNumber": 161,
+    "juzNumber": 6,
+    "chapter": 4
+  },
+  {
+    "pageNumber": 104,
+    "ayatStartNumber": 162,
+    "ayatEndNumber": 169,
+    "juzNumber": 6,
+    "chapter": 4
+  },
+  {
+    "pageNumber": 105,
+    "ayatStartNumber": 170,
+    "ayatEndNumber": 174,
+    "juzNumber": 6,
+    "chapter": 4
+  },
+  {
+    "pageNumber": 106,
+    "ayatStartNumber": 175,
+    "ayatEndNumber": 1,
+    "juzNumber": 6,
+    "chapter": 4
+  },
+  {
+    "pageNumber": 107,
+    "ayatStartNumber": 2,
+    "ayatEndNumber": 4,
+    "juzNumber": 6,
+    "chapter": 5
+  },
+  {
+    "pageNumber": 108,
+    "ayatStartNumber": 5,
+    "ayatEndNumber": 8,
+    "juzNumber": 6,
+    "chapter": 5
+  },
+  {
+    "pageNumber": 109,
+    "ayatStartNumber": 9,
+    "ayatEndNumber": 12,
+    "juzNumber": 6,
+    "chapter": 5
+  },
+  {
+    "pageNumber": 110,
+    "ayatStartNumber": 13,
+    "ayatEndNumber": 16,
+    "juzNumber": 6,
+    "chapter": 5
+  },
+  {
+    "pageNumber": 111,
+    "ayatStartNumber": 17,
+    "ayatEndNumber": 22,
+    "juzNumber": 6,
+    "chapter": 5
+  },
+  {
+    "pageNumber": 112,
+    "ayatStartNumber": 23,
+    "ayatEndNumber": 30,
+    "juzNumber": 6,
+    "chapter": 5
+  },
+  {
+    "pageNumber": 113,
+    "ayatStartNumber": 31,
+    "ayatEndNumber": 35,
+    "juzNumber": 6,
+    "chapter": 5
+  },
+  {
+    "pageNumber": 114,
+    "ayatStartNumber": 36,
+    "ayatEndNumber": 40,
+    "juzNumber": 6,
+    "chapter": 5
+  },
+  {
+    "pageNumber": 115,
+    "ayatStartNumber": 41,
+    "ayatEndNumber": 44,
+    "juzNumber": 6,
+    "chapter": 5
+  },
+  {
+    "pageNumber": 116,
+    "ayatStartNumber": 45,
+    "ayatEndNumber": 49,
+    "juzNumber": 6,
+    "chapter": 5
+  },
+  {
+    "pageNumber": 117,
+    "ayatStartNumber": 50,
+    "ayatEndNumber": 56,
+    "juzNumber": 6,
+    "chapter": 5
+  },
+  {
+    "pageNumber": 118,
+    "ayatStartNumber": 57,
+    "ayatEndNumber": 63,
+    "juzNumber": 6,
+    "chapter": 5
+  },
+  {
+    "pageNumber": 119,
+    "ayatStartNumber": 64,
+    "ayatEndNumber": 69,
+    "juzNumber": 6,
+    "chapter": 5
+  },
+  {
+    "pageNumber": 120,
+    "ayatStartNumber": 70,
+    "ayatEndNumber": 75,
+    "juzNumber": 6,
+    "chapter": 5
+  },
+  {
+    "pageNumber": 121,
+    "ayatStartNumber": 76,
+    "ayatEndNumber": 81,
+    "juzNumber": 6,
+    "chapter": 5
+  },
+  {
+    "pageNumber": 122,
+    "ayatStartNumber": 82,
+    "ayatEndNumber": 88,
+    "juzNumber": 7,
+    "chapter": 5
+  },
+  {
+    "pageNumber": 123,
+    "ayatStartNumber": 89,
+    "ayatEndNumber": 94,
+    "juzNumber": 7,
+    "chapter": 5
+  },
+  {
+    "pageNumber": 124,
+    "ayatStartNumber": 95,
+    "ayatEndNumber": 102,
+    "juzNumber": 7,
+    "chapter": 5
+  },
+  {
+    "pageNumber": 125,
+    "ayatStartNumber": 103,
+    "ayatEndNumber": 107,
+    "juzNumber": 7,
+    "chapter": 5
+  },
+  {
+    "pageNumber": 126,
+    "ayatStartNumber": 108,
+    "ayatEndNumber": 112,
+    "juzNumber": 7,
+    "chapter": 5
+  },
+  {
+    "pageNumber": 127,
+    "ayatStartNumber": 113,
+    "ayatEndNumber": 119,
+    "juzNumber": 7,
+    "chapter": 5
+  },
+  {
+    "pageNumber": 128,
+    "ayatStartNumber": 0,
+    "ayatEndNumber": 7,
+    "juzNumber": 7,
+    "chapter": 6
+  },
+  {
+    "pageNumber": 129,
+    "ayatStartNumber": 8,
+    "ayatEndNumber": 17,
+    "juzNumber": 7,
+    "chapter": 6
+  },
+  {
+    "pageNumber": 130,
+    "ayatStartNumber": 18,
+    "ayatEndNumber": 26,
+    "juzNumber": 7,
+    "chapter": 6
+  },
+  {
+    "pageNumber": 131,
+    "ayatStartNumber": 27,
+    "ayatEndNumber": 34,
+    "juzNumber": 7,
+    "chapter": 6
+  },
+  {
+    "pageNumber": 132,
+    "ayatStartNumber": 35,
+    "ayatEndNumber": 43,
+    "juzNumber": 7,
+    "chapter": 6
+  },
+  {
+    "pageNumber": 133,
+    "ayatStartNumber": 44,
+    "ayatEndNumber": 51,
+    "juzNumber": 7,
+    "chapter": 6
+  },
+  {
+    "pageNumber": 134,
+    "ayatStartNumber": 52,
+    "ayatEndNumber": 58,
+    "juzNumber": 7,
+    "chapter": 6
+  },
+  {
+    "pageNumber": 135,
+    "ayatStartNumber": 59,
+    "ayatEndNumber": 67,
+    "juzNumber": 7,
+    "chapter": 6
+  },
+  {
+    "pageNumber": 136,
+    "ayatStartNumber": 68,
+    "ayatEndNumber": 72,
+    "juzNumber": 7,
+    "chapter": 6
+  },
+  {
+    "pageNumber": 137,
+    "ayatStartNumber": 73,
+    "ayatEndNumber": 80,
+    "juzNumber": 7,
+    "chapter": 6
+  },
+  {
+    "pageNumber": 138,
+    "ayatStartNumber": 81,
+    "ayatEndNumber": 89,
+    "juzNumber": 7,
+    "chapter": 6
+  },
+  {
+    "pageNumber": 139,
+    "ayatStartNumber": 90,
+    "ayatEndNumber": 93,
+    "juzNumber": 7,
+    "chapter": 6
+  },
+  {
+    "pageNumber": 140,
+    "ayatStartNumber": 94,
+    "ayatEndNumber": 100,
+    "juzNumber": 7,
+    "chapter": 6
+  },
+  {
+    "pageNumber": 141,
+    "ayatStartNumber": 101,
+    "ayatEndNumber": 109,
+    "juzNumber": 7,
+    "chapter": 6
+  },
+  {
+    "pageNumber": 142,
+    "ayatStartNumber": 110,
+    "ayatEndNumber": 117,
+    "juzNumber": 8,
+    "chapter": 6
+  },
+  {
+    "pageNumber": 143,
+    "ayatStartNumber": 118,
+    "ayatEndNumber": 123,
+    "juzNumber": 8,
+    "chapter": 6
+  },
+  {
+    "pageNumber": 144,
+    "ayatStartNumber": 124,
+    "ayatEndNumber": 130,
+    "juzNumber": 8,
+    "chapter": 6
+  },
+  {
+    "pageNumber": 145,
+    "ayatStartNumber": 131,
+    "ayatEndNumber": 136,
+    "juzNumber": 8,
+    "chapter": 6
+  },
+  {
+    "pageNumber": 146,
+    "ayatStartNumber": 137,
+    "ayatEndNumber": 141,
+    "juzNumber": 8,
+    "chapter": 6
+  },
+  {
+    "pageNumber": 147,
+    "ayatStartNumber": 142,
+    "ayatEndNumber": 145,
+    "juzNumber": 8,
+    "chapter": 6
+  },
+  {
+    "pageNumber": 148,
+    "ayatStartNumber": 146,
+    "ayatEndNumber": 150,
+    "juzNumber": 8,
+    "chapter": 6
+  },
+  {
+    "pageNumber": 149,
+    "ayatStartNumber": 151,
+    "ayatEndNumber": 156,
+    "juzNumber": 8,
+    "chapter": 6
+  },
+  {
+    "pageNumber": 150,
+    "ayatStartNumber": 157,
+    "ayatEndNumber": 164,
+    "juzNumber": 8,
+    "chapter": 6
+  },
+  {
+    "pageNumber": 151,
+    "ayatStartNumber": 0,
+    "ayatEndNumber": 10,
+    "juzNumber": 8,
+    "chapter": 7
+  },
+  {
+    "pageNumber": 152,
+    "ayatStartNumber": 11,
+    "ayatEndNumber": 21,
+    "juzNumber": 8,
+    "chapter": 7
+  },
+  {
+    "pageNumber": 153,
+    "ayatStartNumber": 22,
+    "ayatEndNumber": 29,
+    "juzNumber": 8,
+    "chapter": 7
+  },
+  {
+    "pageNumber": 154,
+    "ayatStartNumber": 30,
+    "ayatEndNumber": 36,
+    "juzNumber": 8,
+    "chapter": 7
+  },
+  {
+    "pageNumber": 155,
+    "ayatStartNumber": 37,
+    "ayatEndNumber": 42,
+    "juzNumber": 8,
+    "chapter": 7
+  },
+  {
+    "pageNumber": 156,
+    "ayatStartNumber": 43,
+    "ayatEndNumber": 50,
+    "juzNumber": 8,
+    "chapter": 7
+  },
+  {
+    "pageNumber": 157,
+    "ayatStartNumber": 51,
+    "ayatEndNumber": 56,
+    "juzNumber": 8,
+    "chapter": 7
+  },
+  {
+    "pageNumber": 158,
+    "ayatStartNumber": 57,
+    "ayatEndNumber": 66,
+    "juzNumber": 8,
+    "chapter": 7
+  },
+  {
+    "pageNumber": 159,
+    "ayatStartNumber": 67,
+    "ayatEndNumber": 72,
+    "juzNumber": 8,
+    "chapter": 7
+  },
+  {
+    "pageNumber": 160,
+    "ayatStartNumber": 73,
+    "ayatEndNumber": 80,
+    "juzNumber": 8,
+    "chapter": 7
+  },
+  {
+    "pageNumber": 161,
+    "ayatStartNumber": 81,
+    "ayatEndNumber": 86,
+    "juzNumber": 8,
+    "chapter": 7
+  },
+  {
+    "pageNumber": 162,
+    "ayatStartNumber": 87,
+    "ayatEndNumber": 94,
+    "juzNumber": 9,
+    "chapter": 7
+  },
+  {
+    "pageNumber": 163,
+    "ayatStartNumber": 95,
+    "ayatEndNumber": 103,
+    "juzNumber": 9,
+    "chapter": 7
+  },
+  {
+    "pageNumber": 164,
+    "ayatStartNumber": 104,
+    "ayatEndNumber": 119,
+    "juzNumber": 9,
+    "chapter": 7
+  },
+  {
+    "pageNumber": 165,
+    "ayatStartNumber": 120,
+    "ayatEndNumber": 129,
+    "juzNumber": 9,
+    "chapter": 7
+  },
+  {
+    "pageNumber": 166,
+    "ayatStartNumber": 130,
+    "ayatEndNumber": 136,
+    "juzNumber": 9,
+    "chapter": 7
+  },
+  {
+    "pageNumber": 167,
+    "ayatStartNumber": 137,
+    "ayatEndNumber": 142,
+    "juzNumber": 9,
+    "chapter": 7
+  },
+  {
+    "pageNumber": 168,
+    "ayatStartNumber": 143,
+    "ayatEndNumber": 148,
+    "juzNumber": 9,
+    "chapter": 7
+  },
+  {
+    "pageNumber": 169,
+    "ayatStartNumber": 149,
+    "ayatEndNumber": 154,
+    "juzNumber": 9,
+    "chapter": 7
+  },
+  {
+    "pageNumber": 170,
+    "ayatStartNumber": 155,
+    "ayatEndNumber": 158,
+    "juzNumber": 9,
+    "chapter": 7
+  },
+  {
+    "pageNumber": 171,
+    "ayatStartNumber": 159,
+    "ayatEndNumber": 162,
+    "juzNumber": 9,
+    "chapter": 7
+  },
+  {
+    "pageNumber": 172,
+    "ayatStartNumber": 163,
+    "ayatEndNumber": 169,
+    "juzNumber": 9,
+    "chapter": 7
+  },
+  {
+    "pageNumber": 173,
+    "ayatStartNumber": 170,
+    "ayatEndNumber": 177,
+    "juzNumber": 9,
+    "chapter": 7
+  },
+  {
+    "pageNumber": 174,
+    "ayatStartNumber": 178,
+    "ayatEndNumber": 186,
+    "juzNumber": 9,
+    "chapter": 7
+  },
+  {
+    "pageNumber": 175,
+    "ayatStartNumber": 187,
+    "ayatEndNumber": 194,
+    "juzNumber": 9,
+    "chapter": 7
+  },
+  {
+    "pageNumber": 176,
+    "ayatStartNumber": 195,
+    "ayatEndNumber": 205,
+    "juzNumber": 9,
+    "chapter": 7
+  },
+  {
+    "pageNumber": 177,
+    "ayatStartNumber": 0,
+    "ayatEndNumber": 7,
+    "juzNumber": 9,
+    "chapter": 8
+  },
+  {
+    "pageNumber": 178,
+    "ayatStartNumber": 8,
+    "ayatEndNumber": 15,
+    "juzNumber": 9,
+    "chapter": 8
+  },
+  {
+    "pageNumber": 179,
+    "ayatStartNumber": 16,
+    "ayatEndNumber": 24,
+    "juzNumber": 9,
+    "chapter": 8
+  },
+  {
+    "pageNumber": 180,
+    "ayatStartNumber": 25,
+    "ayatEndNumber": 32,
+    "juzNumber": 9,
+    "chapter": 8
+  },
+  {
+    "pageNumber": 181,
+    "ayatStartNumber": 33,
+    "ayatEndNumber": 39,
+    "juzNumber": 9,
+    "chapter": 8
+  },
+  {
+    "pageNumber": 182,
+    "ayatStartNumber": 40,
+    "ayatEndNumber": 44,
+    "juzNumber": 10,
+    "chapter": 8
+  },
+  {
+    "pageNumber": 183,
+    "ayatStartNumber": 45,
+    "ayatEndNumber": 51,
+    "juzNumber": 10,
+    "chapter": 8
+  },
+  {
+    "pageNumber": 184,
+    "ayatStartNumber": 52,
+    "ayatEndNumber": 60,
+    "juzNumber": 10,
+    "chapter": 8
+  },
+  {
+    "pageNumber": 185,
+    "ayatStartNumber": 61,
+    "ayatEndNumber": 68,
+    "juzNumber": 10,
+    "chapter": 8
+  },
+  {
+    "pageNumber": 186,
+    "ayatStartNumber": 69,
+    "ayatEndNumber": 74,
+    "juzNumber": 10,
+    "chapter": 8
+  },
+  {
+    "pageNumber": 187,
+    "ayatStartNumber": 0,
+    "ayatEndNumber": 5,
+    "juzNumber": 10,
+    "chapter": 9
+  },
+  {
+    "pageNumber": 188,
+    "ayatStartNumber": 6,
+    "ayatEndNumber": 12,
+    "juzNumber": 10,
+    "chapter": 9
+  },
+  {
+    "pageNumber": 189,
+    "ayatStartNumber": 13,
+    "ayatEndNumber": 19,
+    "juzNumber": 10,
+    "chapter": 9
+  },
+  {
+    "pageNumber": 190,
+    "ayatStartNumber": 20,
+    "ayatEndNumber": 25,
+    "juzNumber": 10,
+    "chapter": 9
+  },
+  {
+    "pageNumber": 191,
+    "ayatStartNumber": 26,
+    "ayatEndNumber": 30,
+    "juzNumber": 10,
+    "chapter": 9
+  },
+  {
+    "pageNumber": 192,
+    "ayatStartNumber": 31,
+    "ayatEndNumber": 35,
+    "juzNumber": 10,
+    "chapter": 9
+  },
+  {
+    "pageNumber": 193,
+    "ayatStartNumber": 36,
+    "ayatEndNumber": 39,
+    "juzNumber": 10,
+    "chapter": 9
+  },
+  {
+    "pageNumber": 194,
+    "ayatStartNumber": 40,
+    "ayatEndNumber": 46,
+    "juzNumber": 10,
+    "chapter": 9
+  },
+  {
+    "pageNumber": 195,
+    "ayatStartNumber": 47,
+    "ayatEndNumber": 53,
+    "juzNumber": 10,
+    "chapter": 9
+  },
+  {
+    "pageNumber": 196,
+    "ayatStartNumber": 54,
+    "ayatEndNumber": 60,
+    "juzNumber": 10,
+    "chapter": 9
+  },
+  {
+    "pageNumber": 197,
+    "ayatStartNumber": 61,
+    "ayatEndNumber": 67,
+    "juzNumber": 10,
+    "chapter": 9
+  },
+  {
+    "pageNumber": 198,
+    "ayatStartNumber": 68,
+    "ayatEndNumber": 71,
+    "juzNumber": 10,
+    "chapter": 9
+  },
+  {
+    "pageNumber": 199,
+    "ayatStartNumber": 72,
+    "ayatEndNumber": 78,
+    "juzNumber": 10,
+    "chapter": 9
+  },
+  {
+    "pageNumber": 200,
+    "ayatStartNumber": 79,
+    "ayatEndNumber": 85,
+    "juzNumber": 10,
+    "chapter": 9
+  },
+  {
+    "pageNumber": 201,
+    "ayatStartNumber": 86,
+    "ayatEndNumber": 92,
+    "juzNumber": 10,
+    "chapter": 9
+  },
+  {
+    "pageNumber": 202,
+    "ayatStartNumber": 93,
+    "ayatEndNumber": 98,
+    "juzNumber": 11,
+    "chapter": 9
+  },
+  {
+    "pageNumber": 203,
+    "ayatStartNumber": 99,
+    "ayatEndNumber": 105,
+    "juzNumber": 11,
+    "chapter": 9
+  },
+  {
+    "pageNumber": 204,
+    "ayatStartNumber": 106,
+    "ayatEndNumber": 110,
+    "juzNumber": 11,
+    "chapter": 9
+  },
+  {
+    "pageNumber": 205,
+    "ayatStartNumber": 111,
+    "ayatEndNumber": 116,
+    "juzNumber": 11,
+    "chapter": 9
+  },
+  {
+    "pageNumber": 206,
+    "ayatStartNumber": 117,
+    "ayatEndNumber": 121,
+    "juzNumber": 11,
+    "chapter": 9
+  },
+  {
+    "pageNumber": 207,
+    "ayatStartNumber": 122,
+    "ayatEndNumber": 128,
+    "juzNumber": 11,
+    "chapter": 9
+  },
+  {
+    "pageNumber": 208,
+    "ayatStartNumber": 0,
+    "ayatEndNumber": 5,
+    "juzNumber": 11,
+    "chapter": 10
+  },
+  {
+    "pageNumber": 209,
+    "ayatStartNumber": 6,
+    "ayatEndNumber": 13,
+    "juzNumber": 11,
+    "chapter": 10
+  },
+  {
+    "pageNumber": 210,
+    "ayatStartNumber": 14,
+    "ayatEndNumber": 19,
+    "juzNumber": 11,
+    "chapter": 10
+  },
+  {
+    "pageNumber": 211,
+    "ayatStartNumber": 20,
+    "ayatEndNumber": 24,
+    "juzNumber": 11,
+    "chapter": 10
+  },
+  {
+    "pageNumber": 212,
+    "ayatStartNumber": 25,
+    "ayatEndNumber": 32,
+    "juzNumber": 11,
+    "chapter": 10
+  },
+  {
+    "pageNumber": 213,
+    "ayatStartNumber": 33,
+    "ayatEndNumber": 41,
+    "juzNumber": 11,
+    "chapter": 10
+  },
+  {
+    "pageNumber": 214,
+    "ayatStartNumber": 42,
+    "ayatEndNumber": 52,
+    "juzNumber": 11,
+    "chapter": 10
+  },
+  {
+    "pageNumber": 215,
+    "ayatStartNumber": 53,
+    "ayatEndNumber": 60,
+    "juzNumber": 11,
+    "chapter": 10
+  },
+  {
+    "pageNumber": 216,
+    "ayatStartNumber": 61,
+    "ayatEndNumber": 69,
+    "juzNumber": 11,
+    "chapter": 10
+  },
+  {
+    "pageNumber": 217,
+    "ayatStartNumber": 70,
+    "ayatEndNumber": 77,
+    "juzNumber": 11,
+    "chapter": 10
+  },
+  {
+    "pageNumber": 218,
+    "ayatStartNumber": 78,
+    "ayatEndNumber": 87,
+    "juzNumber": 11,
+    "chapter": 10
+  },
+  {
+    "pageNumber": 219,
+    "ayatStartNumber": 88,
+    "ayatEndNumber": 96,
+    "juzNumber": 11,
+    "chapter": 10
+  },
+  {
+    "pageNumber": 220,
+    "ayatStartNumber": 97,
+    "ayatEndNumber": 105,
+    "juzNumber": 11,
+    "chapter": 10
+  },
+  {
+    "pageNumber": 221,
+    "ayatStartNumber": 106,
+    "ayatEndNumber": 4,
+    "juzNumber": 11,
+    "chapter": 10
+  },
+  {
+    "pageNumber": 222,
+    "ayatStartNumber": 5,
+    "ayatEndNumber": 11,
+    "juzNumber": 12,
+    "chapter": 11
+  },
+  {
+    "pageNumber": 223,
+    "ayatStartNumber": 12,
+    "ayatEndNumber": 18,
+    "juzNumber": 12,
+    "chapter": 11
+  },
+  {
+    "pageNumber": 224,
+    "ayatStartNumber": 19,
+    "ayatEndNumber": 27,
+    "juzNumber": 12,
+    "chapter": 11
+  },
+  {
+    "pageNumber": 225,
+    "ayatStartNumber": 28,
+    "ayatEndNumber": 36,
+    "juzNumber": 12,
+    "chapter": 11
+  },
+  {
+    "pageNumber": 226,
+    "ayatStartNumber": 37,
+    "ayatEndNumber": 44,
+    "juzNumber": 12,
+    "chapter": 11
+  },
+  {
+    "pageNumber": 227,
+    "ayatStartNumber": 45,
+    "ayatEndNumber": 52,
+    "juzNumber": 12,
+    "chapter": 11
+  },
+  {
+    "pageNumber": 228,
+    "ayatStartNumber": 53,
+    "ayatEndNumber": 61,
+    "juzNumber": 12,
+    "chapter": 11
+  },
+  {
+    "pageNumber": 229,
+    "ayatStartNumber": 62,
+    "ayatEndNumber": 70,
+    "juzNumber": 12,
+    "chapter": 11
+  },
+  {
+    "pageNumber": 230,
+    "ayatStartNumber": 71,
+    "ayatEndNumber": 80,
+    "juzNumber": 12,
+    "chapter": 11
+  },
+  {
+    "pageNumber": 231,
+    "ayatStartNumber": 81,
+    "ayatEndNumber": 87,
+    "juzNumber": 12,
+    "chapter": 11
+  },
+  {
+    "pageNumber": 232,
+    "ayatStartNumber": 88,
+    "ayatEndNumber": 96,
+    "juzNumber": 12,
+    "chapter": 11
+  },
+  {
+    "pageNumber": 233,
+    "ayatStartNumber": 97,
+    "ayatEndNumber": 107,
+    "juzNumber": 12,
+    "chapter": 11
+  },
+  {
+    "pageNumber": 234,
+    "ayatStartNumber": 108,
+    "ayatEndNumber": 116,
+    "juzNumber": 12,
+    "chapter": 11
+  },
+  {
+    "pageNumber": 235,
+    "ayatStartNumber": 117,
+    "ayatEndNumber": 3,
+    "juzNumber": 12,
+    "chapter": 11
+  },
+  {
+    "pageNumber": 236,
+    "ayatStartNumber": 4,
+    "ayatEndNumber": 13,
+    "juzNumber": 12,
+    "chapter": 12
+  },
+  {
+    "pageNumber": 237,
+    "ayatStartNumber": 14,
+    "ayatEndNumber": 21,
+    "juzNumber": 12,
+    "chapter": 12
+  },
+  {
+    "pageNumber": 238,
+    "ayatStartNumber": 22,
+    "ayatEndNumber": 29,
+    "juzNumber": 12,
+    "chapter": 12
+  },
+  {
+    "pageNumber": 239,
+    "ayatStartNumber": 30,
+    "ayatEndNumber": 36,
+    "juzNumber": 12,
+    "chapter": 12
+  },
+  {
+    "pageNumber": 240,
+    "ayatStartNumber": 37,
+    "ayatEndNumber": 42,
+    "juzNumber": 12,
+    "chapter": 12
+  },
+  {
+    "pageNumber": 241,
+    "ayatStartNumber": 43,
+    "ayatEndNumber": 51,
+    "juzNumber": 12,
+    "chapter": 12
+  },
+  {
+    "pageNumber": 242,
+    "ayatStartNumber": 52,
+    "ayatEndNumber": 62,
+    "juzNumber": 13,
+    "chapter": 12
+  },
+  {
+    "pageNumber": 243,
+    "ayatStartNumber": 63,
+    "ayatEndNumber": 68,
+    "juzNumber": 13,
+    "chapter": 12
+  },
+  {
+    "pageNumber": 244,
+    "ayatStartNumber": 69,
+    "ayatEndNumber": 77,
+    "juzNumber": 13,
+    "chapter": 12
+  },
+  {
+    "pageNumber": 245,
+    "ayatStartNumber": 78,
+    "ayatEndNumber": 85,
+    "juzNumber": 13,
+    "chapter": 12
+  },
+  {
+    "pageNumber": 246,
+    "ayatStartNumber": 86,
+    "ayatEndNumber": 94,
+    "juzNumber": 13,
+    "chapter": 12
+  },
+  {
+    "pageNumber": 247,
+    "ayatStartNumber": 95,
+    "ayatEndNumber": 102,
+    "juzNumber": 13,
+    "chapter": 12
+  },
+  {
+    "pageNumber": 248,
+    "ayatStartNumber": 103,
+    "ayatEndNumber": 110,
+    "juzNumber": 13,
+    "chapter": 12
+  },
+  {
+    "pageNumber": 249,
+    "ayatStartNumber": 0,
+    "ayatEndNumber": 4,
+    "juzNumber": 13,
+    "chapter": 13
+  },
+  {
+    "pageNumber": 250,
+    "ayatStartNumber": 5,
+    "ayatEndNumber": 12,
+    "juzNumber": 13,
+    "chapter": 13
+  },
+  {
+    "pageNumber": 251,
+    "ayatStartNumber": 13,
+    "ayatEndNumber": 17,
+    "juzNumber": 13,
+    "chapter": 13
+  },
+  {
+    "pageNumber": 252,
+    "ayatStartNumber": 18,
+    "ayatEndNumber": 27,
+    "juzNumber": 13,
+    "chapter": 13
+  },
+  {
+    "pageNumber": 253,
+    "ayatStartNumber": 28,
+    "ayatEndNumber": 33,
+    "juzNumber": 13,
+    "chapter": 13
+  },
+  {
+    "pageNumber": 254,
+    "ayatStartNumber": 34,
+    "ayatEndNumber": 41,
+    "juzNumber": 13,
+    "chapter": 13
+  },
+  {
+    "pageNumber": 255,
+    "ayatStartNumber": 42,
+    "ayatEndNumber": 4,
+    "juzNumber": 13,
+    "chapter": 13
+  },
+  {
+    "pageNumber": 256,
+    "ayatStartNumber": 5,
+    "ayatEndNumber": 9,
+    "juzNumber": 13,
+    "chapter": 14
+  },
+  {
+    "pageNumber": 257,
+    "ayatStartNumber": 10,
+    "ayatEndNumber": 17,
+    "juzNumber": 13,
+    "chapter": 14
+  },
+  {
+    "pageNumber": 258,
+    "ayatStartNumber": 18,
+    "ayatEndNumber": 23,
+    "juzNumber": 13,
+    "chapter": 14
+  },
+  {
+    "pageNumber": 259,
+    "ayatStartNumber": 24,
+    "ayatEndNumber": 32,
+    "juzNumber": 13,
+    "chapter": 14
+  },
+  {
+    "pageNumber": 260,
+    "ayatStartNumber": 33,
+    "ayatEndNumber": 41,
+    "juzNumber": 13,
+    "chapter": 14
+  },
+  {
+    "pageNumber": 261,
+    "ayatStartNumber": 42,
+    "ayatEndNumber": 51,
+    "juzNumber": 13,
+    "chapter": 14
+  },
+  {
+    "pageNumber": 262,
+    "ayatStartNumber": 0,
+    "ayatEndNumber": 14,
+    "juzNumber": 14,
+    "chapter": 15
+  },
+  {
+    "pageNumber": 263,
+    "ayatStartNumber": 15,
+    "ayatEndNumber": 30,
+    "juzNumber": 14,
+    "chapter": 15
+  },
+  {
+    "pageNumber": 264,
+    "ayatStartNumber": 31,
+    "ayatEndNumber": 50,
+    "juzNumber": 14,
+    "chapter": 15
+  },
+  {
+    "pageNumber": 265,
+    "ayatStartNumber": 51,
+    "ayatEndNumber": 69,
+    "juzNumber": 14,
+    "chapter": 15
+  },
+  {
+    "pageNumber": 266,
+    "ayatStartNumber": 70,
+    "ayatEndNumber": 89,
+    "juzNumber": 14,
+    "chapter": 15
+  },
+  {
+    "pageNumber": 267,
+    "ayatStartNumber": 90,
+    "ayatEndNumber": 5,
+    "juzNumber": 14,
+    "chapter": 15
+  },
+  {
+    "pageNumber": 268,
+    "ayatStartNumber": 6,
+    "ayatEndNumber": 13,
+    "juzNumber": 14,
+    "chapter": 16
+  },
+  {
+    "pageNumber": 269,
+    "ayatStartNumber": 14,
+    "ayatEndNumber": 25,
+    "juzNumber": 14,
+    "chapter": 16
+  },
+  {
+    "pageNumber": 270,
+    "ayatStartNumber": 26,
+    "ayatEndNumber": 33,
+    "juzNumber": 14,
+    "chapter": 16
+  },
+  {
+    "pageNumber": 271,
+    "ayatStartNumber": 34,
+    "ayatEndNumber": 41,
+    "juzNumber": 14,
+    "chapter": 16
+  },
+  {
+    "pageNumber": 272,
+    "ayatStartNumber": 42,
+    "ayatEndNumber": 53,
+    "juzNumber": 14,
+    "chapter": 16
+  },
+  {
+    "pageNumber": 273,
+    "ayatStartNumber": 54,
+    "ayatEndNumber": 63,
+    "juzNumber": 14,
+    "chapter": 16
+  },
+  {
+    "pageNumber": 274,
+    "ayatStartNumber": 64,
+    "ayatEndNumber": 71,
+    "juzNumber": 14,
+    "chapter": 16
+  },
+  {
+    "pageNumber": 275,
+    "ayatStartNumber": 72,
+    "ayatEndNumber": 78,
+    "juzNumber": 14,
+    "chapter": 16
+  },
+  {
+    "pageNumber": 276,
+    "ayatStartNumber": 79,
+    "ayatEndNumber": 86,
+    "juzNumber": 14,
+    "chapter": 16
+  },
+  {
+    "pageNumber": 277,
+    "ayatStartNumber": 87,
+    "ayatEndNumber": 92,
+    "juzNumber": 14,
+    "chapter": 16
+  },
+  {
+    "pageNumber": 278,
+    "ayatStartNumber": 93,
+    "ayatEndNumber": 101,
+    "juzNumber": 14,
+    "chapter": 16
+  },
+  {
+    "pageNumber": 279,
+    "ayatStartNumber": 102,
+    "ayatEndNumber": 109,
+    "juzNumber": 14,
+    "chapter": 16
+  },
+  {
+    "pageNumber": 280,
+    "ayatStartNumber": 110,
+    "ayatEndNumber": 117,
+    "juzNumber": 14,
+    "chapter": 16
+  },
+  {
+    "pageNumber": 281,
+    "ayatStartNumber": 118,
+    "ayatEndNumber": 127,
+    "juzNumber": 14,
+    "chapter": 16
+  },
+  {
+    "pageNumber": 282,
+    "ayatStartNumber": 0,
+    "ayatEndNumber": 6,
+    "juzNumber": 15,
+    "chapter": 17
+  },
+  {
+    "pageNumber": 283,
+    "ayatStartNumber": 7,
+    "ayatEndNumber": 16,
+    "juzNumber": 15,
+    "chapter": 17
+  },
+  {
+    "pageNumber": 284,
+    "ayatStartNumber": 17,
+    "ayatEndNumber": 26,
+    "juzNumber": 15,
+    "chapter": 17
+  },
+  {
+    "pageNumber": 285,
+    "ayatStartNumber": 27,
+    "ayatEndNumber": 37,
+    "juzNumber": 15,
+    "chapter": 17
+  },
+  {
+    "pageNumber": 286,
+    "ayatStartNumber": 38,
+    "ayatEndNumber": 48,
+    "juzNumber": 15,
+    "chapter": 17
+  },
+  {
+    "pageNumber": 287,
+    "ayatStartNumber": 49,
+    "ayatEndNumber": 57,
+    "juzNumber": 15,
+    "chapter": 17
+  },
+  {
+    "pageNumber": 288,
+    "ayatStartNumber": 58,
+    "ayatEndNumber": 65,
+    "juzNumber": 15,
+    "chapter": 17
+  },
+  {
+    "pageNumber": 289,
+    "ayatStartNumber": 66,
+    "ayatEndNumber": 74,
+    "juzNumber": 15,
+    "chapter": 17
+  },
+  {
+    "pageNumber": 290,
+    "ayatStartNumber": 75,
+    "ayatEndNumber": 85,
+    "juzNumber": 15,
+    "chapter": 17
+  },
+  {
+    "pageNumber": 291,
+    "ayatStartNumber": 86,
+    "ayatEndNumber": 95,
+    "juzNumber": 15,
+    "chapter": 17
+  },
+  {
+    "pageNumber": 292,
+    "ayatStartNumber": 96,
+    "ayatEndNumber": 103,
+    "juzNumber": 15,
+    "chapter": 17
+  },
+  {
+    "pageNumber": 293,
+    "ayatStartNumber": 104,
+    "ayatEndNumber": 3,
+    "juzNumber": 15,
+    "chapter": 17
+  },
+  {
+    "pageNumber": 294,
+    "ayatStartNumber": 4,
+    "ayatEndNumber": 14,
+    "juzNumber": 15,
+    "chapter": 18
+  },
+  {
+    "pageNumber": 295,
+    "ayatStartNumber": 15,
+    "ayatEndNumber": 19,
+    "juzNumber": 15,
+    "chapter": 18
+  },
+  {
+    "pageNumber": 296,
+    "ayatStartNumber": 20,
+    "ayatEndNumber": 26,
+    "juzNumber": 15,
+    "chapter": 18
+  },
+  {
+    "pageNumber": 297,
+    "ayatStartNumber": 27,
+    "ayatEndNumber": 33,
+    "juzNumber": 15,
+    "chapter": 18
+  },
+  {
+    "pageNumber": 298,
+    "ayatStartNumber": 34,
+    "ayatEndNumber": 44,
+    "juzNumber": 15,
+    "chapter": 18
+  },
+  {
+    "pageNumber": 299,
+    "ayatStartNumber": 45,
+    "ayatEndNumber": 52,
+    "juzNumber": 15,
+    "chapter": 18
+  },
+  {
+    "pageNumber": 300,
+    "ayatStartNumber": 53,
+    "ayatEndNumber": 60,
+    "juzNumber": 15,
+    "chapter": 18
+  },
+  {
+    "pageNumber": 301,
+    "ayatStartNumber": 61,
+    "ayatEndNumber": 73,
+    "juzNumber": 15,
+    "chapter": 18
+  },
+  {
+    "pageNumber": 302,
+    "ayatStartNumber": 74,
+    "ayatEndNumber": 82,
+    "juzNumber": 16,
+    "chapter": 18
+  },
+  {
+    "pageNumber": 303,
+    "ayatStartNumber": 83,
+    "ayatEndNumber": 96,
+    "juzNumber": 16,
+    "chapter": 18
+  },
+  {
+    "pageNumber": 304,
+    "ayatStartNumber": 97,
+    "ayatEndNumber": 109,
+    "juzNumber": 16,
+    "chapter": 18
+  },
+  {
+    "pageNumber": 305,
+    "ayatStartNumber": 0,
+    "ayatEndNumber": 10,
+    "juzNumber": 16,
+    "chapter": 19
+  },
+  {
+    "pageNumber": 306,
+    "ayatStartNumber": 11,
+    "ayatEndNumber": 24,
+    "juzNumber": 16,
+    "chapter": 19
+  },
+  {
+    "pageNumber": 307,
+    "ayatStartNumber": 25,
+    "ayatEndNumber": 37,
+    "juzNumber": 16,
+    "chapter": 19
+  },
+  {
+    "pageNumber": 308,
+    "ayatStartNumber": 38,
+    "ayatEndNumber": 50,
+    "juzNumber": 16,
+    "chapter": 19
+  },
+  {
+    "pageNumber": 309,
+    "ayatStartNumber": 51,
+    "ayatEndNumber": 63,
+    "juzNumber": 16,
+    "chapter": 19
+  },
+  {
+    "pageNumber": 310,
+    "ayatStartNumber": 64,
+    "ayatEndNumber": 75,
+    "juzNumber": 16,
+    "chapter": 19
+  },
+  {
+    "pageNumber": 311,
+    "ayatStartNumber": 76,
+    "ayatEndNumber": 94,
+    "juzNumber": 16,
+    "chapter": 19
+  },
+  {
+    "pageNumber": 312,
+    "ayatStartNumber": 95,
+    "ayatEndNumber": 11,
+    "juzNumber": 16,
+    "chapter": 19
+  },
+  {
+    "pageNumber": 313,
+    "ayatStartNumber": 12,
+    "ayatEndNumber": 36,
+    "juzNumber": 16,
+    "chapter": 20
+  },
+  {
+    "pageNumber": 314,
+    "ayatStartNumber": 37,
+    "ayatEndNumber": 50,
+    "juzNumber": 16,
+    "chapter": 20
+  },
+  {
+    "pageNumber": 315,
+    "ayatStartNumber": 51,
+    "ayatEndNumber": 63,
+    "juzNumber": 16,
+    "chapter": 20
+  },
+  {
+    "pageNumber": 316,
+    "ayatStartNumber": 64,
+    "ayatEndNumber": 75,
+    "juzNumber": 16,
+    "chapter": 20
+  },
+  {
+    "pageNumber": 317,
+    "ayatStartNumber": 76,
+    "ayatEndNumber": 86,
+    "juzNumber": 16,
+    "chapter": 20
+  },
+  {
+    "pageNumber": 318,
+    "ayatStartNumber": 87,
+    "ayatEndNumber": 97,
+    "juzNumber": 16,
+    "chapter": 20
+  },
+  {
+    "pageNumber": 319,
+    "ayatStartNumber": 98,
+    "ayatEndNumber": 112,
+    "juzNumber": 16,
+    "chapter": 20
+  },
+  {
+    "pageNumber": 320,
+    "ayatStartNumber": 113,
+    "ayatEndNumber": 124,
+    "juzNumber": 16,
+    "chapter": 20
+  },
+  {
+    "pageNumber": 321,
+    "ayatStartNumber": 125,
+    "ayatEndNumber": 134,
+    "juzNumber": 16,
+    "chapter": 20
+  },
+  {
+    "pageNumber": 322,
+    "ayatStartNumber": 0,
+    "ayatEndNumber": 9,
+    "juzNumber": 17,
+    "chapter": 21
+  },
+  {
+    "pageNumber": 323,
+    "ayatStartNumber": 10,
+    "ayatEndNumber": 23,
+    "juzNumber": 17,
+    "chapter": 21
+  },
+  {
+    "pageNumber": 324,
+    "ayatStartNumber": 24,
+    "ayatEndNumber": 34,
+    "juzNumber": 17,
+    "chapter": 21
+  },
+  {
+    "pageNumber": 325,
+    "ayatStartNumber": 35,
+    "ayatEndNumber": 43,
+    "juzNumber": 17,
+    "chapter": 21
+  },
+  {
+    "pageNumber": 326,
+    "ayatStartNumber": 44,
+    "ayatEndNumber": 56,
+    "juzNumber": 17,
+    "chapter": 21
+  },
+  {
+    "pageNumber": 327,
+    "ayatStartNumber": 57,
+    "ayatEndNumber": 71,
+    "juzNumber": 17,
+    "chapter": 21
+  },
+  {
+    "pageNumber": 328,
+    "ayatStartNumber": 72,
+    "ayatEndNumber": 80,
+    "juzNumber": 17,
+    "chapter": 21
+  },
+  {
+    "pageNumber": 329,
+    "ayatStartNumber": 81,
+    "ayatEndNumber": 89,
+    "juzNumber": 17,
+    "chapter": 21
+  },
+  {
+    "pageNumber": 330,
+    "ayatStartNumber": 90,
+    "ayatEndNumber": 100,
+    "juzNumber": 17,
+    "chapter": 21
+  },
+  {
+    "pageNumber": 331,
+    "ayatStartNumber": 101,
+    "ayatEndNumber": 111,
+    "juzNumber": 17,
+    "chapter": 21
+  },
+  {
+    "pageNumber": 332,
+    "ayatStartNumber": 0,
+    "ayatEndNumber": 4,
+    "juzNumber": 17,
+    "chapter": 22
+  },
+  {
+    "pageNumber": 333,
+    "ayatStartNumber": 5,
+    "ayatEndNumber": 14,
+    "juzNumber": 17,
+    "chapter": 22
+  },
+  {
+    "pageNumber": 334,
+    "ayatStartNumber": 15,
+    "ayatEndNumber": 22,
+    "juzNumber": 17,
+    "chapter": 22
+  },
+  {
+    "pageNumber": 335,
+    "ayatStartNumber": 23,
+    "ayatEndNumber": 29,
+    "juzNumber": 17,
+    "chapter": 22
+  },
+  {
+    "pageNumber": 336,
+    "ayatStartNumber": 30,
+    "ayatEndNumber": 37,
+    "juzNumber": 17,
+    "chapter": 22
+  },
+  {
+    "pageNumber": 337,
+    "ayatStartNumber": 38,
+    "ayatEndNumber": 45,
+    "juzNumber": 17,
+    "chapter": 22
+  },
+  {
+    "pageNumber": 338,
+    "ayatStartNumber": 46,
+    "ayatEndNumber": 54,
+    "juzNumber": 17,
+    "chapter": 22
+  },
+  {
+    "pageNumber": 339,
+    "ayatStartNumber": 55,
+    "ayatEndNumber": 63,
+    "juzNumber": 17,
+    "chapter": 22
+  },
+  {
+    "pageNumber": 340,
+    "ayatStartNumber": 64,
+    "ayatEndNumber": 71,
+    "juzNumber": 17,
+    "chapter": 22
+  },
+  {
+    "pageNumber": 341,
+    "ayatStartNumber": 72,
+    "ayatEndNumber": 77,
+    "juzNumber": 17,
+    "chapter": 22
+  },
+  {
+    "pageNumber": 342,
+    "ayatStartNumber": 0,
+    "ayatEndNumber": 16,
+    "juzNumber": 18,
+    "chapter": 23
+  },
+  {
+    "pageNumber": 343,
+    "ayatStartNumber": 17,
+    "ayatEndNumber": 26,
+    "juzNumber": 18,
+    "chapter": 23
+  },
+  {
+    "pageNumber": 344,
+    "ayatStartNumber": 27,
+    "ayatEndNumber": 41,
+    "juzNumber": 18,
+    "chapter": 23
+  },
+  {
+    "pageNumber": 345,
+    "ayatStartNumber": 42,
+    "ayatEndNumber": 58,
+    "juzNumber": 18,
+    "chapter": 23
+  },
+  {
+    "pageNumber": 346,
+    "ayatStartNumber": 59,
+    "ayatEndNumber": 73,
+    "juzNumber": 18,
+    "chapter": 23
+  },
+  {
+    "pageNumber": 347,
+    "ayatStartNumber": 74,
+    "ayatEndNumber": 88,
+    "juzNumber": 18,
+    "chapter": 23
+  },
+  {
+    "pageNumber": 348,
+    "ayatStartNumber": 89,
+    "ayatEndNumber": 103,
+    "juzNumber": 18,
+    "chapter": 23
+  },
+  {
+    "pageNumber": 349,
+    "ayatStartNumber": 104,
+    "ayatEndNumber": 117,
+    "juzNumber": 18,
+    "chapter": 23
+  },
+  {
+    "pageNumber": 350,
+    "ayatStartNumber": 0,
+    "ayatEndNumber": 9,
+    "juzNumber": 18,
+    "chapter": 24
+  },
+  {
+    "pageNumber": 351,
+    "ayatStartNumber": 10,
+    "ayatEndNumber": 19,
+    "juzNumber": 18,
+    "chapter": 24
+  },
+  {
+    "pageNumber": 352,
+    "ayatStartNumber": 20,
+    "ayatEndNumber": 26,
+    "juzNumber": 18,
+    "chapter": 24
+  },
+  {
+    "pageNumber": 353,
+    "ayatStartNumber": 27,
+    "ayatEndNumber": 30,
+    "juzNumber": 18,
+    "chapter": 24
+  },
+  {
+    "pageNumber": 354,
+    "ayatStartNumber": 31,
+    "ayatEndNumber": 35,
+    "juzNumber": 18,
+    "chapter": 24
+  },
+  {
+    "pageNumber": 355,
+    "ayatStartNumber": 36,
+    "ayatEndNumber": 42,
+    "juzNumber": 18,
+    "chapter": 24
+  },
+  {
+    "pageNumber": 356,
+    "ayatStartNumber": 43,
+    "ayatEndNumber": 52,
+    "juzNumber": 18,
+    "chapter": 24
+  },
+  {
+    "pageNumber": 357,
+    "ayatStartNumber": 53,
+    "ayatEndNumber": 57,
+    "juzNumber": 18,
+    "chapter": 24
+  },
+  {
+    "pageNumber": 358,
+    "ayatStartNumber": 58,
+    "ayatEndNumber": 60,
+    "juzNumber": 18,
+    "chapter": 24
+  },
+  {
+    "pageNumber": 359,
+    "ayatStartNumber": 61,
+    "ayatEndNumber": 1,
+    "juzNumber": 18,
+    "chapter": 24
+  },
+  {
+    "pageNumber": 360,
+    "ayatStartNumber": 2,
+    "ayatEndNumber": 10,
+    "juzNumber": 18,
+    "chapter": 25
+  },
+  {
+    "pageNumber": 361,
+    "ayatStartNumber": 11,
+    "ayatEndNumber": 19,
+    "juzNumber": 18,
+    "chapter": 25
+  },
+  {
+    "pageNumber": 362,
+    "ayatStartNumber": 20,
+    "ayatEndNumber": 31,
+    "juzNumber": 19,
+    "chapter": 25
+  },
+  {
+    "pageNumber": 363,
+    "ayatStartNumber": 32,
+    "ayatEndNumber": 42,
+    "juzNumber": 19,
+    "chapter": 25
+  },
+  {
+    "pageNumber": 364,
+    "ayatStartNumber": 43,
+    "ayatEndNumber": 54,
+    "juzNumber": 19,
+    "chapter": 25
+  },
+  {
+    "pageNumber": 365,
+    "ayatStartNumber": 55,
+    "ayatEndNumber": 66,
+    "juzNumber": 19,
+    "chapter": 25
+  },
+  {
+    "pageNumber": 366,
+    "ayatStartNumber": 67,
+    "ayatEndNumber": 76,
+    "juzNumber": 19,
+    "chapter": 25
+  },
+  {
+    "pageNumber": 367,
+    "ayatStartNumber": 0,
+    "ayatEndNumber": 18,
+    "juzNumber": 19,
+    "chapter": 26
+  },
+  {
+    "pageNumber": 368,
+    "ayatStartNumber": 19,
+    "ayatEndNumber": 38,
+    "juzNumber": 19,
+    "chapter": 26
+  },
+  {
+    "pageNumber": 369,
+    "ayatStartNumber": 39,
+    "ayatEndNumber": 59,
+    "juzNumber": 19,
+    "chapter": 26
+  },
+  {
+    "pageNumber": 370,
+    "ayatStartNumber": 60,
+    "ayatEndNumber": 82,
+    "juzNumber": 19,
+    "chapter": 26
+  },
+  {
+    "pageNumber": 371,
+    "ayatStartNumber": 83,
+    "ayatEndNumber": 110,
+    "juzNumber": 19,
+    "chapter": 26
+  },
+  {
+    "pageNumber": 372,
+    "ayatStartNumber": 111,
+    "ayatEndNumber": 135,
+    "juzNumber": 19,
+    "chapter": 26
+  },
+  {
+    "pageNumber": 373,
+    "ayatStartNumber": 136,
+    "ayatEndNumber": 158,
+    "juzNumber": 19,
+    "chapter": 26
+  },
+  {
+    "pageNumber": 374,
+    "ayatStartNumber": 159,
+    "ayatEndNumber": 182,
+    "juzNumber": 19,
+    "chapter": 26
+  },
+  {
+    "pageNumber": 375,
+    "ayatStartNumber": 183,
+    "ayatEndNumber": 205,
+    "juzNumber": 19,
+    "chapter": 26
+  },
+  {
+    "pageNumber": 376,
+    "ayatStartNumber": 206,
+    "ayatEndNumber": 226,
+    "juzNumber": 19,
+    "chapter": 26
+  },
+  {
+    "pageNumber": 377,
+    "ayatStartNumber": 0,
+    "ayatEndNumber": 12,
+    "juzNumber": 19,
+    "chapter": 27
+  },
+  {
+    "pageNumber": 378,
+    "ayatStartNumber": 13,
+    "ayatEndNumber": 21,
+    "juzNumber": 19,
+    "chapter": 27
+  },
+  {
+    "pageNumber": 379,
+    "ayatStartNumber": 22,
+    "ayatEndNumber": 34,
+    "juzNumber": 19,
+    "chapter": 27
+  },
+  {
+    "pageNumber": 380,
+    "ayatStartNumber": 35,
+    "ayatEndNumber": 43,
+    "juzNumber": 19,
+    "chapter": 27
+  },
+  {
+    "pageNumber": 381,
+    "ayatStartNumber": 44,
+    "ayatEndNumber": 54,
+    "juzNumber": 19,
+    "chapter": 27
+  },
+  {
+    "pageNumber": 382,
+    "ayatStartNumber": 55,
+    "ayatEndNumber": 62,
+    "juzNumber": 20,
+    "chapter": 27
+  },
+  {
+    "pageNumber": 383,
+    "ayatStartNumber": 63,
+    "ayatEndNumber": 75,
+    "juzNumber": 20,
+    "chapter": 27
+  },
+  {
+    "pageNumber": 384,
+    "ayatStartNumber": 76,
+    "ayatEndNumber": 87,
+    "juzNumber": 20,
+    "chapter": 27
+  },
+  {
+    "pageNumber": 385,
+    "ayatStartNumber": 88,
+    "ayatEndNumber": 4,
+    "juzNumber": 20,
+    "chapter": 27
+  },
+  {
+    "pageNumber": 386,
+    "ayatStartNumber": 5,
+    "ayatEndNumber": 12,
+    "juzNumber": 20,
+    "chapter": 28
+  },
+  {
+    "pageNumber": 387,
+    "ayatStartNumber": 13,
+    "ayatEndNumber": 20,
+    "juzNumber": 20,
+    "chapter": 28
+  },
+  {
+    "pageNumber": 388,
+    "ayatStartNumber": 21,
+    "ayatEndNumber": 27,
+    "juzNumber": 20,
+    "chapter": 28
+  },
+  {
+    "pageNumber": 389,
+    "ayatStartNumber": 28,
+    "ayatEndNumber": 34,
+    "juzNumber": 20,
+    "chapter": 28
+  },
+  {
+    "pageNumber": 390,
+    "ayatStartNumber": 35,
+    "ayatEndNumber": 42,
+    "juzNumber": 20,
+    "chapter": 28
+  },
+  {
+    "pageNumber": 391,
+    "ayatStartNumber": 43,
+    "ayatEndNumber": 49,
+    "juzNumber": 20,
+    "chapter": 28
+  },
+  {
+    "pageNumber": 392,
+    "ayatStartNumber": 50,
+    "ayatEndNumber": 58,
+    "juzNumber": 20,
+    "chapter": 28
+  },
+  {
+    "pageNumber": 393,
+    "ayatStartNumber": 59,
+    "ayatEndNumber": 69,
+    "juzNumber": 20,
+    "chapter": 28
+  },
+  {
+    "pageNumber": 394,
+    "ayatStartNumber": 70,
+    "ayatEndNumber": 76,
+    "juzNumber": 20,
+    "chapter": 28
+  },
+  {
+    "pageNumber": 395,
+    "ayatStartNumber": 77,
+    "ayatEndNumber": 83,
+    "juzNumber": 20,
+    "chapter": 28
+  },
+  {
+    "pageNumber": 396,
+    "ayatStartNumber": 84,
+    "ayatEndNumber": 5,
+    "juzNumber": 20,
+    "chapter": 28
+  },
+  {
+    "pageNumber": 397,
+    "ayatStartNumber": 6,
+    "ayatEndNumber": 13,
+    "juzNumber": 20,
+    "chapter": 29
+  },
+  {
+    "pageNumber": 398,
+    "ayatStartNumber": 14,
+    "ayatEndNumber": 22,
+    "juzNumber": 20,
+    "chapter": 29
+  },
+  {
+    "pageNumber": 399,
+    "ayatStartNumber": 23,
+    "ayatEndNumber": 29,
+    "juzNumber": 20,
+    "chapter": 29
+  },
+  {
+    "pageNumber": 400,
+    "ayatStartNumber": 30,
+    "ayatEndNumber": 37,
+    "juzNumber": 20,
+    "chapter": 29
+  },
+  {
+    "pageNumber": 401,
+    "ayatStartNumber": 38,
+    "ayatEndNumber": 44,
+    "juzNumber": 20,
+    "chapter": 29
+  },
+  {
+    "pageNumber": 402,
+    "ayatStartNumber": 45,
+    "ayatEndNumber": 51,
+    "juzNumber": 21,
+    "chapter": 29
+  },
+  {
+    "pageNumber": 403,
+    "ayatStartNumber": 52,
+    "ayatEndNumber": 62,
+    "juzNumber": 21,
+    "chapter": 29
+  },
+  {
+    "pageNumber": 404,
+    "ayatStartNumber": 63,
+    "ayatEndNumber": 4,
+    "juzNumber": 21,
+    "chapter": 29
+  },
+  {
+    "pageNumber": 405,
+    "ayatStartNumber": 5,
+    "ayatEndNumber": 14,
+    "juzNumber": 21,
+    "chapter": 30
+  },
+  {
+    "pageNumber": 406,
+    "ayatStartNumber": 15,
+    "ayatEndNumber": 23,
+    "juzNumber": 21,
+    "chapter": 30
+  },
+  {
+    "pageNumber": 407,
+    "ayatStartNumber": 24,
+    "ayatEndNumber": 31,
+    "juzNumber": 21,
+    "chapter": 30
+  },
+  {
+    "pageNumber": 408,
+    "ayatStartNumber": 32,
+    "ayatEndNumber": 40,
+    "juzNumber": 21,
+    "chapter": 30
+  },
+  {
+    "pageNumber": 409,
+    "ayatStartNumber": 41,
+    "ayatEndNumber": 49,
+    "juzNumber": 21,
+    "chapter": 30
+  },
+  {
+    "pageNumber": 410,
+    "ayatStartNumber": 50,
+    "ayatEndNumber": 59,
+    "juzNumber": 21,
+    "chapter": 30
+  },
+  {
+    "pageNumber": 411,
+    "ayatStartNumber": 0,
+    "ayatEndNumber": 10,
+    "juzNumber": 21,
+    "chapter": 31
+  },
+  {
+    "pageNumber": 412,
+    "ayatStartNumber": 11,
+    "ayatEndNumber": 18,
+    "juzNumber": 21,
+    "chapter": 31
+  },
+  {
+    "pageNumber": 413,
+    "ayatStartNumber": 19,
+    "ayatEndNumber": 27,
+    "juzNumber": 21,
+    "chapter": 31
+  },
+  {
+    "pageNumber": 414,
+    "ayatStartNumber": 28,
+    "ayatEndNumber": 33,
+    "juzNumber": 21,
+    "chapter": 31
+  },
+  {
+    "pageNumber": 415,
+    "ayatStartNumber": 0,
+    "ayatEndNumber": 10,
+    "juzNumber": 21,
+    "chapter": 32
+  },
+  {
+    "pageNumber": 416,
+    "ayatStartNumber": 11,
+    "ayatEndNumber": 19,
+    "juzNumber": 21,
+    "chapter": 32
+  },
+  {
+    "pageNumber": 417,
+    "ayatStartNumber": 20,
+    "ayatEndNumber": 29,
+    "juzNumber": 21,
+    "chapter": 32
+  },
+  {
+    "pageNumber": 418,
+    "ayatStartNumber": 0,
+    "ayatEndNumber": 5,
+    "juzNumber": 21,
+    "chapter": 33
+  },
+  {
+    "pageNumber": 419,
+    "ayatStartNumber": 6,
+    "ayatEndNumber": 14,
+    "juzNumber": 21,
+    "chapter": 33
+  },
+  {
+    "pageNumber": 420,
+    "ayatStartNumber": 15,
+    "ayatEndNumber": 21,
+    "juzNumber": 21,
+    "chapter": 33
+  },
+  {
+    "pageNumber": 421,
+    "ayatStartNumber": 22,
+    "ayatEndNumber": 29,
+    "juzNumber": 21,
+    "chapter": 33
+  },
+  {
+    "pageNumber": 422,
+    "ayatStartNumber": 30,
+    "ayatEndNumber": 34,
+    "juzNumber": 22,
+    "chapter": 33
+  },
+  {
+    "pageNumber": 423,
+    "ayatStartNumber": 35,
+    "ayatEndNumber": 42,
+    "juzNumber": 22,
+    "chapter": 33
+  },
+  {
+    "pageNumber": 424,
+    "ayatStartNumber": 43,
+    "ayatEndNumber": 49,
+    "juzNumber": 22,
+    "chapter": 33
+  },
+  {
+    "pageNumber": 425,
+    "ayatStartNumber": 50,
+    "ayatEndNumber": 53,
+    "juzNumber": 22,
+    "chapter": 33
+  },
+  {
+    "pageNumber": 426,
+    "ayatStartNumber": 54,
+    "ayatEndNumber": 61,
+    "juzNumber": 22,
+    "chapter": 33
+  },
+  {
+    "pageNumber": 427,
+    "ayatStartNumber": 62,
+    "ayatEndNumber": 72,
+    "juzNumber": 22,
+    "chapter": 33
+  },
+  {
+    "pageNumber": 428,
+    "ayatStartNumber": 0,
+    "ayatEndNumber": 6,
+    "juzNumber": 22,
+    "chapter": 34
+  },
+  {
+    "pageNumber": 429,
+    "ayatStartNumber": 7,
+    "ayatEndNumber": 13,
+    "juzNumber": 22,
+    "chapter": 34
+  },
+  {
+    "pageNumber": 430,
+    "ayatStartNumber": 14,
+    "ayatEndNumber": 21,
+    "juzNumber": 22,
+    "chapter": 34
+  },
+  {
+    "pageNumber": 431,
+    "ayatStartNumber": 22,
+    "ayatEndNumber": 30,
+    "juzNumber": 22,
+    "chapter": 34
+  },
+  {
+    "pageNumber": 432,
+    "ayatStartNumber": 31,
+    "ayatEndNumber": 38,
+    "juzNumber": 22,
+    "chapter": 34
+  },
+  {
+    "pageNumber": 433,
+    "ayatStartNumber": 39,
+    "ayatEndNumber": 47,
+    "juzNumber": 22,
+    "chapter": 34
+  },
+  {
+    "pageNumber": 434,
+    "ayatStartNumber": 48,
+    "ayatEndNumber": 2,
+    "juzNumber": 22,
+    "chapter": 34
+  },
+  {
+    "pageNumber": 435,
+    "ayatStartNumber": 3,
+    "ayatEndNumber": 10,
+    "juzNumber": 22,
+    "chapter": 35
+  },
+  {
+    "pageNumber": 436,
+    "ayatStartNumber": 11,
+    "ayatEndNumber": 17,
+    "juzNumber": 22,
+    "chapter": 35
+  },
+  {
+    "pageNumber": 437,
+    "ayatStartNumber": 18,
+    "ayatEndNumber": 29,
+    "juzNumber": 22,
+    "chapter": 35
+  },
+  {
+    "pageNumber": 438,
+    "ayatStartNumber": 30,
+    "ayatEndNumber": 37,
+    "juzNumber": 22,
+    "chapter": 35
+  },
+  {
+    "pageNumber": 439,
+    "ayatStartNumber": 38,
+    "ayatEndNumber": 43,
+    "juzNumber": 22,
+    "chapter": 35
+  },
+  {
+    "pageNumber": 440,
+    "ayatStartNumber": 44,
+    "ayatEndNumber": 11,
+    "juzNumber": 22,
+    "chapter": 35
+  },
+  {
+    "pageNumber": 441,
+    "ayatStartNumber": 12,
+    "ayatEndNumber": 26,
+    "juzNumber": 22,
+    "chapter": 36
+  },
+  {
+    "pageNumber": 442,
+    "ayatStartNumber": 27,
+    "ayatEndNumber": 39,
+    "juzNumber": 23,
+    "chapter": 36
+  },
+  {
+    "pageNumber": 443,
+    "ayatStartNumber": 40,
+    "ayatEndNumber": 53,
+    "juzNumber": 23,
+    "chapter": 36
+  },
+  {
+    "pageNumber": 444,
+    "ayatStartNumber": 54,
+    "ayatEndNumber": 69,
+    "juzNumber": 23,
+    "chapter": 36
+  },
+  {
+    "pageNumber": 445,
+    "ayatStartNumber": 70,
+    "ayatEndNumber": 82,
+    "juzNumber": 23,
+    "chapter": 36
+  },
+  {
+    "pageNumber": 446,
+    "ayatStartNumber": 0,
+    "ayatEndNumber": 23,
+    "juzNumber": 23,
+    "chapter": 37
+  },
+  {
+    "pageNumber": 447,
+    "ayatStartNumber": 24,
+    "ayatEndNumber": 50,
+    "juzNumber": 23,
+    "chapter": 37
+  },
+  {
+    "pageNumber": 448,
+    "ayatStartNumber": 51,
+    "ayatEndNumber": 75,
+    "juzNumber": 23,
+    "chapter": 37
+  },
+  {
+    "pageNumber": 449,
+    "ayatStartNumber": 76,
+    "ayatEndNumber": 101,
+    "juzNumber": 23,
+    "chapter": 37
+  },
+  {
+    "pageNumber": 450,
+    "ayatStartNumber": 102,
+    "ayatEndNumber": 125,
+    "juzNumber": 23,
+    "chapter": 37
+  },
+  {
+    "pageNumber": 451,
+    "ayatStartNumber": 126,
+    "ayatEndNumber": 152,
+    "juzNumber": 23,
+    "chapter": 37
+  },
+  {
+    "pageNumber": 452,
+    "ayatStartNumber": 153,
+    "ayatEndNumber": 181,
+    "juzNumber": 23,
+    "chapter": 37
+  },
+  {
+    "pageNumber": 453,
+    "ayatStartNumber": 0,
+    "ayatEndNumber": 15,
+    "juzNumber": 23,
+    "chapter": 38
+  },
+  {
+    "pageNumber": 454,
+    "ayatStartNumber": 16,
+    "ayatEndNumber": 25,
+    "juzNumber": 23,
+    "chapter": 38
+  },
+  {
+    "pageNumber": 455,
+    "ayatStartNumber": 26,
+    "ayatEndNumber": 41,
+    "juzNumber": 23,
+    "chapter": 38
+  },
+  {
+    "pageNumber": 456,
+    "ayatStartNumber": 42,
+    "ayatEndNumber": 60,
+    "juzNumber": 23,
+    "chapter": 38
+  },
+  {
+    "pageNumber": 457,
+    "ayatStartNumber": 61,
+    "ayatEndNumber": 82,
+    "juzNumber": 23,
+    "chapter": 38
+  },
+  {
+    "pageNumber": 458,
+    "ayatStartNumber": 83,
+    "ayatEndNumber": 4,
+    "juzNumber": 23,
+    "chapter": 38
+  },
+  {
+    "pageNumber": 459,
+    "ayatStartNumber": 5,
+    "ayatEndNumber": 9,
+    "juzNumber": 23,
+    "chapter": 39
+  },
+  {
+    "pageNumber": 460,
+    "ayatStartNumber": 10,
+    "ayatEndNumber": 20,
+    "juzNumber": 23,
+    "chapter": 39
+  },
+  {
+    "pageNumber": 461,
+    "ayatStartNumber": 21,
+    "ayatEndNumber": 30,
+    "juzNumber": 23,
+    "chapter": 39
+  },
+  {
+    "pageNumber": 462,
+    "ayatStartNumber": 31,
+    "ayatEndNumber": 39,
+    "juzNumber": 24,
+    "chapter": 39
+  },
+  {
+    "pageNumber": 463,
+    "ayatStartNumber": 40,
+    "ayatEndNumber": 46,
+    "juzNumber": 24,
+    "chapter": 39
+  },
+  {
+    "pageNumber": 464,
+    "ayatStartNumber": 47,
+    "ayatEndNumber": 55,
+    "juzNumber": 24,
+    "chapter": 39
+  },
+  {
+    "pageNumber": 465,
+    "ayatStartNumber": 56,
+    "ayatEndNumber": 66,
+    "juzNumber": 24,
+    "chapter": 39
+  },
+  {
+    "pageNumber": 466,
+    "ayatStartNumber": 67,
+    "ayatEndNumber": 73,
+    "juzNumber": 24,
+    "chapter": 39
+  },
+  {
+    "pageNumber": 467,
+    "ayatStartNumber": 74,
+    "ayatEndNumber": 6,
+    "juzNumber": 24,
+    "chapter": 39
+  },
+  {
+    "pageNumber": 468,
+    "ayatStartNumber": 7,
+    "ayatEndNumber": 15,
+    "juzNumber": 24,
+    "chapter": 40
+  },
+  {
+    "pageNumber": 469,
+    "ayatStartNumber": 16,
+    "ayatEndNumber": 24,
+    "juzNumber": 24,
+    "chapter": 40
+  },
+  {
+    "pageNumber": 470,
+    "ayatStartNumber": 25,
+    "ayatEndNumber": 32,
+    "juzNumber": 24,
+    "chapter": 40
+  },
+  {
+    "pageNumber": 471,
+    "ayatStartNumber": 33,
+    "ayatEndNumber": 39,
+    "juzNumber": 24,
+    "chapter": 40
+  },
+  {
+    "pageNumber": 472,
+    "ayatStartNumber": 40,
+    "ayatEndNumber": 48,
+    "juzNumber": 24,
+    "chapter": 40
+  },
+  {
+    "pageNumber": 473,
+    "ayatStartNumber": 49,
+    "ayatEndNumber": 57,
+    "juzNumber": 24,
+    "chapter": 40
+  },
+  {
+    "pageNumber": 474,
+    "ayatStartNumber": 58,
+    "ayatEndNumber": 65,
+    "juzNumber": 24,
+    "chapter": 40
+  },
+  {
+    "pageNumber": 475,
+    "ayatStartNumber": 66,
+    "ayatEndNumber": 76,
+    "juzNumber": 24,
+    "chapter": 40
+  },
+  {
+    "pageNumber": 476,
+    "ayatStartNumber": 77,
+    "ayatEndNumber": 84,
+    "juzNumber": 24,
+    "chapter": 40
+  },
+  {
+    "pageNumber": 477,
+    "ayatStartNumber": 0,
+    "ayatEndNumber": 10,
+    "juzNumber": 24,
+    "chapter": 41
+  },
+  {
+    "pageNumber": 478,
+    "ayatStartNumber": 11,
+    "ayatEndNumber": 19,
+    "juzNumber": 24,
+    "chapter": 41
+  },
+  {
+    "pageNumber": 479,
+    "ayatStartNumber": 20,
+    "ayatEndNumber": 28,
+    "juzNumber": 24,
+    "chapter": 41
+  },
+  {
+    "pageNumber": 480,
+    "ayatStartNumber": 29,
+    "ayatEndNumber": 37,
+    "juzNumber": 24,
+    "chapter": 41
+  },
+  {
+    "pageNumber": 481,
+    "ayatStartNumber": 38,
+    "ayatEndNumber": 45,
+    "juzNumber": 24,
+    "chapter": 41
+  },
+  {
+    "pageNumber": 482,
+    "ayatStartNumber": 46,
+    "ayatEndNumber": 53,
+    "juzNumber": 25,
+    "chapter": 41
+  },
+  {
+    "pageNumber": 483,
+    "ayatStartNumber": 0,
+    "ayatEndNumber": 9,
+    "juzNumber": 25,
+    "chapter": 42
+  },
+  {
+    "pageNumber": 484,
+    "ayatStartNumber": 10,
+    "ayatEndNumber": 14,
+    "juzNumber": 25,
+    "chapter": 42
+  },
+  {
+    "pageNumber": 485,
+    "ayatStartNumber": 15,
+    "ayatEndNumber": 21,
+    "juzNumber": 25,
+    "chapter": 42
+  },
+  {
+    "pageNumber": 486,
+    "ayatStartNumber": 22,
+    "ayatEndNumber": 30,
+    "juzNumber": 25,
+    "chapter": 42
+  },
+  {
+    "pageNumber": 487,
+    "ayatStartNumber": 31,
+    "ayatEndNumber": 43,
+    "juzNumber": 25,
+    "chapter": 42
+  },
+  {
+    "pageNumber": 488,
+    "ayatStartNumber": 44,
+    "ayatEndNumber": 50,
+    "juzNumber": 25,
+    "chapter": 42
+  },
+  {
+    "pageNumber": 489,
+    "ayatStartNumber": 51,
+    "ayatEndNumber": 9,
+    "juzNumber": 25,
+    "chapter": 42
+  },
+  {
+    "pageNumber": 490,
+    "ayatStartNumber": 10,
+    "ayatEndNumber": 21,
+    "juzNumber": 25,
+    "chapter": 43
+  },
+  {
+    "pageNumber": 491,
+    "ayatStartNumber": 22,
+    "ayatEndNumber": 32,
+    "juzNumber": 25,
+    "chapter": 43
+  },
+  {
+    "pageNumber": 492,
+    "ayatStartNumber": 33,
+    "ayatEndNumber": 46,
+    "juzNumber": 25,
+    "chapter": 43
+  },
+  {
+    "pageNumber": 493,
+    "ayatStartNumber": 47,
+    "ayatEndNumber": 59,
+    "juzNumber": 25,
+    "chapter": 43
+  },
+  {
+    "pageNumber": 494,
+    "ayatStartNumber": 60,
+    "ayatEndNumber": 72,
+    "juzNumber": 25,
+    "chapter": 43
+  },
+  {
+    "pageNumber": 495,
+    "ayatStartNumber": 73,
+    "ayatEndNumber": 88,
+    "juzNumber": 25,
+    "chapter": 43
+  },
+  {
+    "pageNumber": 496,
+    "ayatStartNumber": 0,
+    "ayatEndNumber": 17,
+    "juzNumber": 25,
+    "chapter": 44
+  },
+  {
+    "pageNumber": 497,
+    "ayatStartNumber": 18,
+    "ayatEndNumber": 38,
+    "juzNumber": 25,
+    "chapter": 44
+  },
+  {
+    "pageNumber": 498,
+    "ayatStartNumber": 39,
+    "ayatEndNumber": 58,
+    "juzNumber": 25,
+    "chapter": 44
+  },
+  {
+    "pageNumber": 499,
+    "ayatStartNumber": 0,
+    "ayatEndNumber": 12,
+    "juzNumber": 25,
+    "chapter": 45
+  },
+  {
+    "pageNumber": 500,
+    "ayatStartNumber": 13,
+    "ayatEndNumber": 21,
+    "juzNumber": 25,
+    "chapter": 45
+  },
+  {
+    "pageNumber": 501,
+    "ayatStartNumber": 22,
+    "ayatEndNumber": 31,
+    "juzNumber": 25,
+    "chapter": 45
+  },
+  {
+    "pageNumber": 502,
+    "ayatStartNumber": 32,
+    "ayatEndNumber": 4,
+    "juzNumber": 25,
+    "chapter": 45
+  },
+  {
+    "pageNumber": 503,
+    "ayatStartNumber": 5,
+    "ayatEndNumber": 13,
+    "juzNumber": 26,
+    "chapter": 46
+  },
+  {
+    "pageNumber": 504,
+    "ayatStartNumber": 14,
+    "ayatEndNumber": 19,
+    "juzNumber": 26,
+    "chapter": 46
+  },
+  {
+    "pageNumber": 505,
+    "ayatStartNumber": 20,
+    "ayatEndNumber": 27,
+    "juzNumber": 26,
+    "chapter": 46
+  },
+  {
+    "pageNumber": 506,
+    "ayatStartNumber": 28,
+    "ayatEndNumber": 34,
+    "juzNumber": 26,
+    "chapter": 46
+  },
+  {
+    "pageNumber": 507,
+    "ayatStartNumber": 0,
+    "ayatEndNumber": 10,
+    "juzNumber": 26,
+    "chapter": 47
+  },
+  {
+    "pageNumber": 508,
+    "ayatStartNumber": 11,
+    "ayatEndNumber": 18,
+    "juzNumber": 26,
+    "chapter": 47
+  },
+  {
+    "pageNumber": 509,
+    "ayatStartNumber": 19,
+    "ayatEndNumber": 28,
+    "juzNumber": 26,
+    "chapter": 47
+  },
+  {
+    "pageNumber": 510,
+    "ayatStartNumber": 29,
+    "ayatEndNumber": 37,
+    "juzNumber": 26,
+    "chapter": 47
+  },
+  {
+    "pageNumber": 511,
+    "ayatStartNumber": 0,
+    "ayatEndNumber": 8,
+    "juzNumber": 26,
+    "chapter": 48
+  },
+  {
+    "pageNumber": 512,
+    "ayatStartNumber": 9,
+    "ayatEndNumber": 14,
+    "juzNumber": 26,
+    "chapter": 48
+  },
+  {
+    "pageNumber": 513,
+    "ayatStartNumber": 15,
+    "ayatEndNumber": 22,
+    "juzNumber": 26,
+    "chapter": 48
+  },
+  {
+    "pageNumber": 514,
+    "ayatStartNumber": 23,
+    "ayatEndNumber": 27,
+    "juzNumber": 26,
+    "chapter": 48
+  },
+  {
+    "pageNumber": 515,
+    "ayatStartNumber": 28,
+    "ayatEndNumber": 3,
+    "juzNumber": 26,
+    "chapter": 48
+  },
+  {
+    "pageNumber": 516,
+    "ayatStartNumber": 4,
+    "ayatEndNumber": 10,
+    "juzNumber": 26,
+    "chapter": 49
+  },
+  {
+    "pageNumber": 517,
+    "ayatStartNumber": 11,
+    "ayatEndNumber": 17,
+    "juzNumber": 26,
+    "chapter": 49
+  },
+  {
+    "pageNumber": 518,
+    "ayatStartNumber": 0,
+    "ayatEndNumber": 14,
+    "juzNumber": 26,
+    "chapter": 50
+  },
+  {
+    "pageNumber": 519,
+    "ayatStartNumber": 15,
+    "ayatEndNumber": 34,
+    "juzNumber": 26,
+    "chapter": 50
+  },
+  {
+    "pageNumber": 520,
+    "ayatStartNumber": 35,
+    "ayatEndNumber": 5,
+    "juzNumber": 26,
+    "chapter": 50
+  },
+  {
+    "pageNumber": 521,
+    "ayatStartNumber": 6,
+    "ayatEndNumber": 29,
+    "juzNumber": 26,
+    "chapter": 51
+  },
+  {
+    "pageNumber": 522,
+    "ayatStartNumber": 30,
+    "ayatEndNumber": 50,
+    "juzNumber": 27,
+    "chapter": 51
+  },
+  {
+    "pageNumber": 523,
+    "ayatStartNumber": 51,
+    "ayatEndNumber": 13,
+    "juzNumber": 27,
+    "chapter": 51
+  },
+  {
+    "pageNumber": 524,
+    "ayatStartNumber": 14,
+    "ayatEndNumber": 30,
+    "juzNumber": 27,
+    "chapter": 52
+  },
+  {
+    "pageNumber": 525,
+    "ayatStartNumber": 31,
+    "ayatEndNumber": 48,
+    "juzNumber": 27,
+    "chapter": 52
+  },
+  {
+    "pageNumber": 526,
+    "ayatStartNumber": 0,
+    "ayatEndNumber": 25,
+    "juzNumber": 27,
+    "chapter": 53
+  },
+  {
+    "pageNumber": 527,
+    "ayatStartNumber": 26,
+    "ayatEndNumber": 43,
+    "juzNumber": 27,
+    "chapter": 53
+  },
+  {
+    "pageNumber": 528,
+    "ayatStartNumber": 44,
+    "ayatEndNumber": 5,
+    "juzNumber": 27,
+    "chapter": 53
+  },
+  {
+    "pageNumber": 529,
+    "ayatStartNumber": 6,
+    "ayatEndNumber": 26,
+    "juzNumber": 27,
+    "chapter": 54
+  },
+  {
+    "pageNumber": 530,
+    "ayatStartNumber": 27,
+    "ayatEndNumber": 48,
+    "juzNumber": 27,
+    "chapter": 54
+  },
+  {
+    "pageNumber": 531,
+    "ayatStartNumber": 49,
+    "ayatEndNumber": 15,
+    "juzNumber": 27,
+    "chapter": 54
+  },
+  {
+    "pageNumber": 532,
+    "ayatStartNumber": 16,
+    "ayatEndNumber": 39,
+    "juzNumber": 27,
+    "chapter": 55
+  },
+  {
+    "pageNumber": 533,
+    "ayatStartNumber": 40,
+    "ayatEndNumber": 66,
+    "juzNumber": 27,
+    "chapter": 55
+  },
+  {
+    "pageNumber": 534,
+    "ayatStartNumber": 67,
+    "ayatEndNumber": 15,
+    "juzNumber": 27,
+    "chapter": 55
+  },
+  {
+    "pageNumber": 535,
+    "ayatStartNumber": 16,
+    "ayatEndNumber": 49,
+    "juzNumber": 27,
+    "chapter": 56
+  },
+  {
+    "pageNumber": 536,
+    "ayatStartNumber": 50,
+    "ayatEndNumber": 75,
+    "juzNumber": 27,
+    "chapter": 56
+  },
+  {
+    "pageNumber": 537,
+    "ayatStartNumber": 76,
+    "ayatEndNumber": 2,
+    "juzNumber": 27,
+    "chapter": 56
+  },
+  {
+    "pageNumber": 538,
+    "ayatStartNumber": 3,
+    "ayatEndNumber": 10,
+    "juzNumber": 27,
+    "chapter": 57
+  },
+  {
+    "pageNumber": 539,
+    "ayatStartNumber": 11,
+    "ayatEndNumber": 17,
+    "juzNumber": 27,
+    "chapter": 57
+  },
+  {
+    "pageNumber": 540,
+    "ayatStartNumber": 18,
+    "ayatEndNumber": 23,
+    "juzNumber": 27,
+    "chapter": 57
+  },
+  {
+    "pageNumber": 541,
+    "ayatStartNumber": 24,
+    "ayatEndNumber": 28,
+    "juzNumber": 27,
+    "chapter": 57
+  },
+  {
+    "pageNumber": 542,
+    "ayatStartNumber": 0,
+    "ayatEndNumber": 5,
+    "juzNumber": 28,
+    "chapter": 58
+  },
+  {
+    "pageNumber": 543,
+    "ayatStartNumber": 6,
+    "ayatEndNumber": 10,
+    "juzNumber": 28,
+    "chapter": 58
+  },
+  {
+    "pageNumber": 544,
+    "ayatStartNumber": 11,
+    "ayatEndNumber": 20,
+    "juzNumber": 28,
+    "chapter": 58
+  },
+  {
+    "pageNumber": 545,
+    "ayatStartNumber": 21,
+    "ayatEndNumber": 2,
+    "juzNumber": 28,
+    "chapter": 58
+  },
+  {
+    "pageNumber": 546,
+    "ayatStartNumber": 3,
+    "ayatEndNumber": 8,
+    "juzNumber": 28,
+    "chapter": 59
+  },
+  {
+    "pageNumber": 547,
+    "ayatStartNumber": 9,
+    "ayatEndNumber": 15,
+    "juzNumber": 28,
+    "chapter": 59
+  },
+  {
+    "pageNumber": 548,
+    "ayatStartNumber": 16,
+    "ayatEndNumber": 23,
+    "juzNumber": 28,
+    "chapter": 59
+  },
+  {
+    "pageNumber": 549,
+    "ayatStartNumber": 0,
+    "ayatEndNumber": 4,
+    "juzNumber": 28,
+    "chapter": 60
+  },
+  {
+    "pageNumber": 550,
+    "ayatStartNumber": 5,
+    "ayatEndNumber": 10,
+    "juzNumber": 28,
+    "chapter": 60
+  },
+  {
+    "pageNumber": 551,
+    "ayatStartNumber": 11,
+    "ayatEndNumber": 4,
+    "juzNumber": 28,
+    "chapter": 60
+  },
+  {
+    "pageNumber": 552,
+    "ayatStartNumber": 5,
+    "ayatEndNumber": 13,
+    "juzNumber": 28,
+    "chapter": 61
+  },
+  {
+    "pageNumber": 553,
+    "ayatStartNumber": 0,
+    "ayatEndNumber": 7,
+    "juzNumber": 28,
+    "chapter": 62
+  },
+  {
+    "pageNumber": 554,
+    "ayatStartNumber": 8,
+    "ayatEndNumber": 3,
+    "juzNumber": 28,
+    "chapter": 62
+  },
+  {
+    "pageNumber": 555,
+    "ayatStartNumber": 4,
+    "ayatEndNumber": 10,
+    "juzNumber": 28,
+    "chapter": 63
+  },
+  {
+    "pageNumber": 556,
+    "ayatStartNumber": 0,
+    "ayatEndNumber": 8,
+    "juzNumber": 28,
+    "chapter": 64
+  },
+  {
+    "pageNumber": 557,
+    "ayatStartNumber": 9,
+    "ayatEndNumber": 17,
+    "juzNumber": 28,
+    "chapter": 64
+  },
+  {
+    "pageNumber": 558,
+    "ayatStartNumber": 0,
+    "ayatEndNumber": 4,
+    "juzNumber": 28,
+    "chapter": 65
+  },
+  {
+    "pageNumber": 559,
+    "ayatStartNumber": 5,
+    "ayatEndNumber": 11,
+    "juzNumber": 28,
+    "chapter": 65
+  },
+  {
+    "pageNumber": 560,
+    "ayatStartNumber": 0,
+    "ayatEndNumber": 6,
+    "juzNumber": 28,
+    "chapter": 66
+  },
+  {
+    "pageNumber": 561,
+    "ayatStartNumber": 7,
+    "ayatEndNumber": 11,
+    "juzNumber": 28,
+    "chapter": 66
+  },
+  {
+    "pageNumber": 562,
+    "ayatStartNumber": 0,
+    "ayatEndNumber": 11,
+    "juzNumber": 29,
+    "chapter": 67
+  },
+  {
+    "pageNumber": 563,
+    "ayatStartNumber": 12,
+    "ayatEndNumber": 25,
+    "juzNumber": 29,
+    "chapter": 67
+  },
+  {
+    "pageNumber": 564,
+    "ayatStartNumber": 26,
+    "ayatEndNumber": 14,
+    "juzNumber": 29,
+    "chapter": 67
+  },
+  {
+    "pageNumber": 565,
+    "ayatStartNumber": 15,
+    "ayatEndNumber": 41,
+    "juzNumber": 29,
+    "chapter": 68
+  },
+  {
+    "pageNumber": 566,
+    "ayatStartNumber": 42,
+    "ayatEndNumber": 7,
+    "juzNumber": 29,
+    "chapter": 68
+  },
+  {
+    "pageNumber": 567,
+    "ayatStartNumber": 8,
+    "ayatEndNumber": 33,
+    "juzNumber": 29,
+    "chapter": 69
+  },
+  {
+    "pageNumber": 568,
+    "ayatStartNumber": 34,
+    "ayatEndNumber": 9,
+    "juzNumber": 29,
+    "chapter": 69
+  },
+  {
+    "pageNumber": 569,
+    "ayatStartNumber": 10,
+    "ayatEndNumber": 38,
+    "juzNumber": 29,
+    "chapter": 70
+  },
+  {
+    "pageNumber": 570,
+    "ayatStartNumber": 39,
+    "ayatEndNumber": 9,
+    "juzNumber": 29,
+    "chapter": 70
+  },
+  {
+    "pageNumber": 571,
+    "ayatStartNumber": 10,
+    "ayatEndNumber": 27,
+    "juzNumber": 29,
+    "chapter": 71
+  },
+  {
+    "pageNumber": 572,
+    "ayatStartNumber": 0,
+    "ayatEndNumber": 12,
+    "juzNumber": 29,
+    "chapter": 72
+  },
+  {
+    "pageNumber": 573,
+    "ayatStartNumber": 13,
+    "ayatEndNumber": 27,
+    "juzNumber": 29,
+    "chapter": 72
+  },
+  {
+    "pageNumber": 574,
+    "ayatStartNumber": 0,
+    "ayatEndNumber": 18,
+    "juzNumber": 29,
+    "chapter": 73
+  },
+  {
+    "pageNumber": 575,
+    "ayatStartNumber": 19,
+    "ayatEndNumber": 16,
+    "juzNumber": 29,
+    "chapter": 73
+  },
+  {
+    "pageNumber": 576,
+    "ayatStartNumber": 17,
+    "ayatEndNumber": 46,
+    "juzNumber": 29,
+    "chapter": 74
+  },
+  {
+    "pageNumber": 577,
+    "ayatStartNumber": 47,
+    "ayatEndNumber": 18,
+    "juzNumber": 29,
+    "chapter": 74
+  },
+  {
+    "pageNumber": 578,
+    "ayatStartNumber": 19,
+    "ayatEndNumber": 4,
+    "juzNumber": 29,
+    "chapter": 75
+  },
+  {
+    "pageNumber": 579,
+    "ayatStartNumber": 5,
+    "ayatEndNumber": 24,
+    "juzNumber": 29,
+    "chapter": 76
+  },
+  {
+    "pageNumber": 580,
+    "ayatStartNumber": 25,
+    "ayatEndNumber": 18,
+    "juzNumber": 29,
+    "chapter": 76
+  },
+  {
+    "pageNumber": 581,
+    "ayatStartNumber": 19,
+    "ayatEndNumber": 49,
+    "juzNumber": 29,
+    "chapter": 77
+  },
+  {
+    "pageNumber": 582,
+    "ayatStartNumber": 0,
+    "ayatEndNumber": 29,
+    "juzNumber": 30,
+    "chapter": 78
+  },
+  {
+    "pageNumber": 583,
+    "ayatStartNumber": 30,
+    "ayatEndNumber": 14,
+    "juzNumber": 30,
+    "chapter": 78
+  },
+  {
+    "pageNumber": 584,
+    "ayatStartNumber": 15,
+    "ayatEndNumber": 45,
+    "juzNumber": 30,
+    "chapter": 79
+  },
+  {
+    "pageNumber": 585,
+    "ayatStartNumber": 0,
+    "ayatEndNumber": 41,
+    "juzNumber": 30,
+    "chapter": 80
+  },
+  {
+    "pageNumber": 586,
+    "ayatStartNumber": 0,
+    "ayatEndNumber": 28,
+    "juzNumber": 30,
+    "chapter": 81
+  },
+  {
+    "pageNumber": 587,
+    "ayatStartNumber": 0,
+    "ayatEndNumber": 5,
+    "juzNumber": 30,
+    "chapter": 82
+  },
+  {
+    "pageNumber": 588,
+    "ayatStartNumber": 6,
+    "ayatEndNumber": 33,
+    "juzNumber": 30,
+    "chapter": 83
+  },
+  {
+    "pageNumber": 589,
+    "ayatStartNumber": 34,
+    "ayatEndNumber": 24,
+    "juzNumber": 30,
+    "chapter": 83
+  },
+  {
+    "pageNumber": 590,
+    "ayatStartNumber": 0,
+    "ayatEndNumber": 21,
+    "juzNumber": 30,
+    "chapter": 85
+  },
+  {
+    "pageNumber": 591,
+    "ayatStartNumber": 0,
+    "ayatEndNumber": 14,
+    "juzNumber": 30,
+    "chapter": 86
+  },
+  {
+    "pageNumber": 592,
+    "ayatStartNumber": 15,
+    "ayatEndNumber": 25,
+    "juzNumber": 30,
+    "chapter": 87
+  },
+  {
+    "pageNumber": 593,
+    "ayatStartNumber": 0,
+    "ayatEndNumber": 22,
+    "juzNumber": 30,
+    "chapter": 89
+  },
+  {
+    "pageNumber": 594,
+    "ayatStartNumber": 23,
+    "ayatEndNumber": 19,
+    "juzNumber": 30,
+    "chapter": 89
+  },
+  {
+    "pageNumber": 595,
+    "ayatStartNumber": 0,
+    "ayatEndNumber": 13,
+    "juzNumber": 30,
+    "chapter": 91
+  },
+  {
+    "pageNumber": 596,
+    "ayatStartNumber": 14,
+    "ayatEndNumber": 7,
+    "juzNumber": 30,
+    "chapter": 92
+  },
+  {
+    "pageNumber": 597,
+    "ayatStartNumber": 0,
+    "ayatEndNumber": 18,
+    "juzNumber": 30,
+    "chapter": 95
+  },
+  {
+    "pageNumber": 598,
+    "ayatStartNumber": 0,
+    "ayatEndNumber": 6,
+    "juzNumber": 30,
+    "chapter": 97
+  },
+  {
+    "pageNumber": 599,
+    "ayatStartNumber": 7,
+    "ayatEndNumber": 8,
+    "juzNumber": 30,
+    "chapter": 98
+  },
+  {
+    "pageNumber": 600,
+    "ayatStartNumber": 9,
+    "ayatEndNumber": 7,
+    "juzNumber": 30,
+    "chapter": 100
+  },
+  {
+    "pageNumber": 601,
+    "ayatStartNumber": 0,
+    "ayatEndNumber": 4,
+    "juzNumber": 30,
+    "chapter": 103
+  },
+  {
+    "pageNumber": 602,
+    "ayatStartNumber": 0,
+    "ayatEndNumber": 2,
+    "juzNumber": 30,
+    "chapter": 106
+  },
+  {
+    "pageNumber": 603,
+    "ayatStartNumber": 0,
+    "ayatEndNumber": 4,
+    "juzNumber": 30,
+    "chapter": 109
+  },
+  {
+    "pageNumber": 604,
+    "ayatStartNumber": 0,
+    "ayatEndNumber": 5,
+    "juzNumber": 30,
+    "chapter": 112
+  }
+]
