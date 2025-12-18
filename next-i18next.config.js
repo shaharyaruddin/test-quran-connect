@@ -4,7 +4,7 @@ module.exports = {
   i18n: {
     defaultLocale: 'en',
     locales: ['en', 'ur', 'tr', 'id', 'hi', 'bn', 'ar', 'ms'],
-    localeDetection: true,
+    localeDetection: true, // ADD THIS
   },
   detection: {
     order: ['cookie', 'header', 'querystring'],
@@ -13,8 +13,7 @@ module.exports = {
   },
   localePath: path.resolve('./public/locales'),
   lowerCaseLng: true,
-  debug: process.env.NODE_ENV === 'development', // optional: turn off debug in prod
+  debug: true,
   fallbackLng: 'en',
   supportedLngs: ['en', 'ur', 'tr', 'id', 'hi', 'bn', 'ar', 'ms'],
-  // reloadOnPrerender: process.env.NODE_ENV === 'development', // ← CHANGE THIS LINE
 };

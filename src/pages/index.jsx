@@ -13,6 +13,18 @@ import { parse } from "cookie";
 import { useTranslation } from "react-i18next";
 import { serverSideTranslations } from "next-i18next/serverSideTranslations";
 
+
+export async function getServerSideProps({ req }) {
+  const cookies = req.headers.cookie ? parse(req.headers.cookie) : {};
+  const lang = cookies.language || "en";
+
+  return {
+    props: {
+      ...(await serverSideTranslations(lang, ["common"])),
+    },
+  };
+}
+
 const geistSans = Geist({
   variable: "--font-geist-sans",
   subsets: ["latin"],
@@ -27,16 +39,7 @@ export const config = {
   runtime: "nodejs",
 };
 
-export async function getServerSideProps({ req }) {
-  const cookies = req.headers.cookie ? parse(req.headers.cookie) : {};
-  const lang = cookies.language || "en";
 
-  return {
-    props: {
-      ...(await serverSideTranslations(lang, ["common"])),
-    },
-  };
-}
 
 export default function Home() {
   const { t } = useTranslation("common");
