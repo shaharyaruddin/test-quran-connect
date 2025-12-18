@@ -1,19 +1,10 @@
-// // next-i18next.config.js
-// module.exports = {
-//     i18n: {
-//         defaultLocale: 'en',
-//         locales: ['en', 'ms', 'tr', 'ur', 'id', 'hi', 'bn', 'ar'], // 'ms' for Malay
-//         localeDetection: true, // disable automatic locale detection
-//     },
-// };
 const path = require('path');
 
 module.exports = {
   i18n: {
-    reloadOnPrerender: true, // helps in dev
     defaultLocale: 'en',
     locales: ['en', 'ur', 'tr', 'id', 'hi', 'bn', 'ar', 'ms'],
-    localeDetection: true, // ADD THIS
+    localeDetection: true,
   },
   detection: {
     order: ['cookie', 'header', 'querystring'],
@@ -22,7 +13,8 @@ module.exports = {
   },
   localePath: path.resolve('./public/locales'),
   lowerCaseLng: true,
-  debug: true,
+  debug: process.env.NODE_ENV === 'development', // optional: turn off debug in prod
   fallbackLng: 'en',
   supportedLngs: ['en', 'ur', 'tr', 'id', 'hi', 'bn', 'ar', 'ms'],
+  reloadOnPrerender: process.env.NODE_ENV === 'development', // ← CHANGE THIS LINE
 };
