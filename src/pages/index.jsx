@@ -8,6 +8,9 @@ import CardsGrid from "../components/CardsGrid";
 import SurahCard, { SurahCardSkeleton } from "../components/SurahCard";
 import Head from "next/head";
 import JuzCard from "../components/JuzCard";
+import { serverSideTranslations } from "next-i18next/serverSideTranslations";
+import nextI18nextConfig from "../../next-i18next.config";
+import { parse } from "cookie";
 
 const geistSans = Geist({
   variable: "--font-geist-sans",
@@ -18,6 +21,22 @@ const geistMono = Geist_Mono({
   variable: "--font-geist-mono",
   subsets: ["latin"],
 });
+
+export const config = {
+  runtime: "nodejs",
+};
+
+export async function getServerSideProps({ req }) {
+  const cookies = req?.headers?.cookie ? parse(req.headers.cookie) : {};
+  const lang = cookies.language || "en";
+
+  return {
+    props: {
+      ...(await serverSideTranslations(lang, ["common"], nextI18nextConfig)),
+    },
+  };
+}
+
 
 export default function Home() {
   const [activeTab, setActiveTab] = React.useState("Surah");

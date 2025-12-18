@@ -15,15 +15,17 @@ import NewPassword from "./auth/NewPassword";
 import ProfileDetails from "./auth/ProfileDetails";
 import BookMarkModal from "./BookMarkModal";
 import GetStarted from "./GetStarted";
-import { t } from "i18next";
+import { useTranslation } from "react-i18next";
 import IconBadge from "./IconBadge";
 import { CgProfile } from "react-icons/cg";
 
 const Header = () => {
+  const { t } = useTranslation("common");
+
   const [modalType, setModalType] = useState("");
   const [path, setPath] = useState("");
   const [data, setData] = useState(null);
-  const [isModalOpen, setIsModalOpenState] = useState(false); // renamed to avoid conflict
+  const [isModalOpen, setIsModalOpenState] = useState(false);
   const profile = useSelector((state) => state.api.user);
   const bookmarkAyah =
     useSelector((state) => state.api.bookMarkAyah)?.length || 0;

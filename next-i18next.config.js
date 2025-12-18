@@ -6,22 +6,23 @@
 //         localeDetection: true, // disable automatic locale detection
 //     },
 // };
-const path = require("path");
+const path = require('path');
 
 module.exports = {
   i18n: {
-    defaultLocale: "en",
-    locales: ["en", "ur", "tr", "id", "hi", "bn", "ar", "ms"],
+    reloadOnPrerender: true, // helps in dev
+    defaultLocale: 'en',
+    locales: ['en', 'ur', 'tr', 'id', 'hi', 'bn', 'ar', 'ms'],
     localeDetection: true, // ADD THIS
   },
   detection: {
-    order: ["cookie", "header", "querystring"],
-    caches: ["cookie"],
-    lookupCookie: "language",
+    order: ['cookie', 'header', 'querystring'],
+    caches: ['cookie'],
+    lookupCookie: 'language',
   },
-  localePath: path.resolve("./public/locales"),
+  localePath: path.resolve('./public/locales'),
   lowerCaseLng: true,
   debug: true,
-  fallbackLng: "en",
-  supportedLngs: ["en", "ur", "tr", "id", "hi", "bn", "ar", "ms"],
+  fallbackLng: 'en',
+  supportedLngs: ['en', 'ur', 'tr', 'id', 'hi', 'bn', 'ar', 'ms'],
 };
