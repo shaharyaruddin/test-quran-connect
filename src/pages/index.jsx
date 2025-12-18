@@ -8,9 +8,9 @@ import CardsGrid from "../components/CardsGrid";
 import SurahCard, { SurahCardSkeleton } from "../components/SurahCard";
 import Head from "next/head";
 import JuzCard from "../components/JuzCard";
-import { serverSideTranslations } from "next-i18next/serverSideTranslations";
-import nextI18nextConfig from "../../next-i18next.config";
 import { parse } from "cookie";
+import { useTranslation } from "react-i18next";
+import { serverSideTranslations } from "next-i18next/serverSideTranslations";
 
 const geistSans = Geist({
   variable: "--font-geist-sans",
@@ -27,44 +27,46 @@ export const config = {
 };
 
 export async function getServerSideProps({ req }) {
-  const cookies = req?.headers?.cookie ? parse(req.headers.cookie) : {};
+  const cookies = req.headers.cookie ? parse(req.headers.cookie) : {};
   const lang = cookies.language || "en";
 
   return {
     props: {
-      ...(await serverSideTranslations(lang, ["common"], nextI18nextConfig)),
+      ...(await serverSideTranslations(lang, ["common"])),
     },
   };
 }
 
-
 export default function Home() {
+  const { t } = useTranslation("common");
+
   const [activeTab, setActiveTab] = React.useState("Surah");
 
   // Get surahs data from Redux store
   const surahsData = useSelector((state) => state.api.surahs);
 
-  console.log("surah Data", surahsData)
-
+  console.log("surah Data", surahsData);
 
   console.log(surahsData, "surahData");
   const juzzData = useSelector((state) => state.api.juzz);
 
   // Transform API data to match SurahCard props
-const items = React.useMemo(() => {
-  if (!surahsData || !Array.isArray(surahsData)) return [];
+  const items = React.useMemo(() => {
+    if (!surahsData || !Array.isArray(surahsData)) return [];
 
-  return surahsData?.map((surah) => ({
-    number: surah?.index ?? "",
-    titleEn: surah?.name ?? "",
-    id: surah?._id ?? "",
-    titleAr: surah?.arabicName ?? "",
-    ayahsText: surah?.ayahsCount ? `${surah.ayahsCount} Ayahs` : "",
-    questionsText: surah?.questionsCount ? `${surah.questionsCount} Questions` : "",
-    thumbnail: surah?.icon || "/images/sample-image.png",
-    star: surah?.score ?? 0,
-  }));
-}, [surahsData]);
+    return surahsData?.map((surah) => ({
+      number: surah?.index ?? "",
+      titleEn: surah?.name ?? "",
+      id: surah?._id ?? "",
+      titleAr: surah?.arabicName ?? "",
+      ayahsText: surah?.ayahsCount ? `${surah.ayahsCount} Ayahs` : "",
+      questionsText: surah?.questionsCount
+        ? `${surah.questionsCount} Questions`
+        : "",
+      thumbnail: surah?.icon || "/images/sample-image.png",
+      star: surah?.score ?? 0,
+    }));
+  }, [surahsData]);
 
   // Transform Juzz API data to match JuzCard props
   const juzItems = React.useMemo(() => {
